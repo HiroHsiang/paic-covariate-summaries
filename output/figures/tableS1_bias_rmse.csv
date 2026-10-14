@@ -1,0 +1,1057 @@
+"design","distribution","scenario","method","bias","rmse","lowest","indistinguishable","msd_only_penalty"
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","Unadjusted (Bucher)",-0.192173902940443,0.393837109082685,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","MAIC (means)",-0.0292110698664017,0.356010100534622,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","MAIC (means and SDs)",0.0381315739355244,0.414138710987152,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","MAIC (all reported summaries)",0.0417298576816061,0.451852546101177,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","MAIC (means, quartiles and proportions)",0.00898770846136036,0.396397681438586,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","sMAIC",0.0114653588774335,0.387605768878471,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","STC",-0.261986970408846,0.475512105046604,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","G-computation",0.00743899755358626,0.315263509289185,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","G-MAIC (means and SDs)",0.0106325904267088,0.330557843694108,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","G-MAIC",0.0108919350433746,0.361745086669512,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","sG-MAIC",0.0118836228511108,0.327753276788675,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","Unadjusted (Bucher)",-0.246451290952664,0.421821594940194,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","MAIC (means)",-0.00909888464824373,0.352687711434446,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","MAIC (means and SDs)",0.0273529897504902,0.398952252027234,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","MAIC (all reported summaries)",0.0307174293933016,0.436822276163358,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","MAIC (means, quartiles and proportions)",-0.000134374771222635,0.387306859457852,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","sMAIC",0.00169057145394741,0.380920170969488,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","STC",-0.180913311748891,0.470510387988268,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","G-computation",-0.0109449006014528,0.303575849347553,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","G-MAIC (means and SDs)",-0.00945227059569368,0.314903608945455,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","G-MAIC",-0.0127882490450675,0.335630132681549,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","sG-MAIC",-0.0103013497049928,0.316976485849223,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","Unadjusted (Bucher)",-0.201828891787004,0.424594926691466,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","MAIC (means)",-0.142088954674329,0.416258222482001,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","MAIC (means and SDs)",0.00922938503025137,0.461584729108104,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","MAIC (all reported summaries)",0.0156928971181329,0.508020356831918,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","MAIC (means, quartiles and proportions)",-0.0495487558389503,0.446516899012216,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","sMAIC",-0.045207660433001,0.441180687048978,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","STC",-0.32891637960225,0.525065298657099,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","G-computation",-0.123139990420531,0.377688749394354,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","G-MAIC (means and SDs)",-0.0182917239315619,0.383384847554751,FALSE,TRUE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","G-MAIC",-0.0186189704307443,0.411693203165412,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","sG-MAIC",-0.0477364531824832,0.380639747683214,FALSE,TRUE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","Unadjusted (Bucher)",-0.317942452984787,0.477842642942083,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","MAIC (means)",-0.242470323401292,0.45083867931925,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","MAIC (means and SDs)",-0.00582563707456763,0.431006142278769,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","MAIC (all reported summaries)",0.00184506198982724,0.466030703328135,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","MAIC (means, quartiles and proportions)",-0.105793362713819,0.426055478969961,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","sMAIC",-0.095572315879064,0.419800671926452,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","STC",-0.461009441659841,0.605499271879572,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","G-computation",-0.243362581191859,0.424783079068091,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","G-MAIC (means and SDs)",-0.0354416363783114,0.359950074857539,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","G-MAIC",-0.0370496228971743,0.391410181700333,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","sG-MAIC",-0.0996466790465137,0.368040110995561,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","Unadjusted (Bucher)",-0.203879679634915,0.416211499045316,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","MAIC (means)",-0.112994600739043,0.40120459086704,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","MAIC (means and SDs)",0.018724165127388,0.445054500001617,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","MAIC (all reported summaries)",3.03296778348224e-05,0.488561937355804,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","MAIC (means, quartiles and proportions)",-0.00787129129928557,0.429935553286994,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","sMAIC",-0.00552437124769151,0.423673051633404,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","STC",-0.326319968172857,0.514257699909636,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","G-computation",-0.074867489432357,0.352261313036648,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","G-MAIC (means and SDs)",-0.0038382478792005,0.363207887038167,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","G-MAIC",-0.0228522671470428,0.391203034871529,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","sG-MAIC",0.00107408367768904,0.361928095046407,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","Unadjusted (Bucher)",-0.302751055595996,0.4606820854088,FALSE,FALSE,0.0191993504322501
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","MAIC (means)",-0.161087475042509,0.399213677547749,FALSE,FALSE,0.0191993504322501
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","MAIC (means and SDs)",0.00774801043903461,0.422261112970196,FALSE,FALSE,0.0191993504322501
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","MAIC (all reported summaries)",-0.0110463511038099,0.467536425405672,FALSE,FALSE,0.0191993504322501
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","MAIC (means, quartiles and proportions)",-0.000405102767762698,0.401296785480041,FALSE,FALSE,0.0191993504322501
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","sMAIC",-0.00501270218578346,0.394210324508528,FALSE,FALSE,0.0191993504322501
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","STC",-0.455567449350637,0.60209274208549,FALSE,FALSE,0.0191993504322501
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","G-computation",-0.12603456886384,0.350552934089169,FALSE,FALSE,0.0191993504322501
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","G-MAIC (means and SDs)",-0.0277977202137604,0.336052103272854,FALSE,FALSE,0.0191993504322501
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","G-MAIC",-0.0464366902164456,0.363061628828066,FALSE,FALSE,0.0191993504322501
+"Anchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","sG-MAIC",-0.00818672125431075,0.329721661547696,TRUE,FALSE,0.0191993504322501
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","Unadjusted (Bucher)",-0.192187499305792,0.403980491425178,FALSE,FALSE,0.00390970322449991
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","MAIC (means)",-0.0126969947116054,0.373745264909679,FALSE,FALSE,0.00390970322449991
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","MAIC (means and SDs)",0.0174270801695571,0.397405238498643,FALSE,FALSE,0.00390970322449991
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","MAIC (all reported summaries)",0.0227082089381805,0.436760539120669,FALSE,FALSE,0.00390970322449991
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","MAIC (means, quartiles and proportions)",0.00103837645888797,0.392251620144637,FALSE,FALSE,0.00390970322449991
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","sMAIC",-0.00415965841039932,0.382985892638222,FALSE,FALSE,0.00390970322449991
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","STC",-0.208535050652974,0.464092951602268,FALSE,FALSE,0.00390970322449991
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","G-computation",0.0579789121237887,0.338269844893594,FALSE,TRUE,0.00390970322449991
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","G-MAIC (means and SDs)",0.0677523107988388,0.350677880278289,FALSE,FALSE,0.00390970322449991
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","G-MAIC",0.0118400615093081,0.365269848231162,FALSE,FALSE,0.00390970322449991
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","sG-MAIC",0.00794362257957509,0.336952460771213,TRUE,FALSE,0.00390970322449991
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","Unadjusted (Bucher)",-0.231296703522188,0.421089019664286,FALSE,FALSE,0.0192281748340299
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","MAIC (means)",0.00128452646743375,0.361689801191417,FALSE,FALSE,0.0192281748340299
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","MAIC (means and SDs)",0.0040723711619141,0.379440153011722,FALSE,FALSE,0.0192281748340299
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","MAIC (all reported summaries)",0.0310688898631679,0.432287493575498,FALSE,FALSE,0.0192281748340299
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","MAIC (means, quartiles and proportions)",0.0213288344352195,0.37722830276593,FALSE,FALSE,0.0192281748340299
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","sMAIC",0.00636332408755876,0.374680338458829,FALSE,FALSE,0.0192281748340299
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","STC",-0.0634991405551997,0.451890162184769,FALSE,FALSE,0.0192281748340299
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","G-computation",0.0934976549372103,0.339229127861343,FALSE,FALSE,0.0192281748340299
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","G-MAIC (means and SDs)",0.0928048789499463,0.34595353011688,FALSE,FALSE,0.0192281748340299
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","G-MAIC",0.0238969758803382,0.353646745242441,FALSE,FALSE,0.0192281748340299
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","sG-MAIC",0.021797875458765,0.332829425478336,TRUE,FALSE,0.0192281748340299
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","Unadjusted (Bucher)",-0.140302131666973,0.386401951698867,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","MAIC (means)",-0.0324740567372414,0.384114827200845,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","MAIC (means and SDs)",0.0323770573464873,0.414308769222915,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","MAIC (all reported summaries)",0.0226636553170141,0.466262694651592,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","MAIC (means, quartiles and proportions)",-0.0392724916566766,0.408499959321817,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","sMAIC",-0.0305710209027241,0.406389161507055,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","STC",-0.275150222702853,0.484657697804083,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","G-computation",-0.0222795946567736,0.343272367574069,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","G-MAIC (means and SDs)",0.0353893274196623,0.351376044608842,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","G-MAIC",-0.0117305579286146,0.382112998240798,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","sG-MAIC",-0.0346200952311043,0.353969761742562,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","Unadjusted (Bucher)",-0.168671291266884,0.384501698181878,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","MAIC (means)",-0.0151004146535267,0.358776839413005,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","MAIC (means and SDs)",0.0789476891718584,0.387422034667241,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","MAIC (all reported summaries)",0.0571837303483071,0.432346530056483,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","MAIC (means, quartiles and proportions)",-0.0194669431878544,0.376511381837807,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","sMAIC",-0.0133777925686966,0.371862179486585,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","STC",-0.3143108673859,0.506504881055656,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","G-computation",3.06901537346978e-05,0.327449142280197,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","G-MAIC (means and SDs)",0.093734866664408,0.348022537541609,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","G-MAIC",0.0157325824310603,0.366996834194797,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","sG-MAIC",-0.0164691980940335,0.334730253249335,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","Unadjusted (Bucher)",-0.106125284981976,0.380672905741999,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","MAIC (means)",0.0106278167723023,0.383086478154304,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","MAIC (means and SDs)",0.0698396476833232,0.415397809546652,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","MAIC (all reported summaries)",-0.000415787107751679,0.459618743905375,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","MAIC (means, quartiles and proportions)",-0.00947042463296423,0.404013127961381,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","sMAIC",-0.0104038373215723,0.393673553067503,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","STC",-0.225474793421269,0.462688007142084,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","G-computation",0.0297321217263626,0.345216822587102,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","G-MAIC (means and SDs)",0.0675274794547832,0.360998522731956,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","G-MAIC",-0.0375558059319336,0.383840169468873,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","sG-MAIC",-0.017086913047955,0.350204616000515,FALSE,TRUE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","Unadjusted (Bucher)",-0.140749488698061,0.384560658740496,FALSE,FALSE,0.00982602848787995
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","MAIC (means)",0.0315791198094752,0.377003954984465,FALSE,FALSE,0.00982602848787995
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","MAIC (means and SDs)",0.0967996084320566,0.412212845029138,FALSE,FALSE,0.00982602848787995
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","MAIC (all reported summaries)",-0.0106153450396356,0.444976096382335,FALSE,FALSE,0.00982602848787995
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","MAIC (means, quartiles and proportions)",-0.00351801112251234,0.385112596092187,FALSE,FALSE,0.00982602848787995
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","sMAIC",-0.00741036220235102,0.38492463748651,FALSE,FALSE,0.00982602848787995
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","STC",-0.264685204753703,0.49010313598604,FALSE,FALSE,0.00982602848787995
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","G-computation",0.0740731634014786,0.337621981578596,FALSE,TRUE,0.00982602848787995
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","G-MAIC (means and SDs)",0.123823087139838,0.359107477531724,FALSE,FALSE,0.00982602848787995
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","G-MAIC",-0.043616082941797,0.364936939592162,FALSE,FALSE,0.00982602848787995
+"Anchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","sG-MAIC",-0.0034638664567622,0.334336778864924,TRUE,FALSE,0.00982602848787995
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","Unadjusted (Bucher)",-0.234838757539931,0.420939210925127,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","MAIC (means)",-0.0817186441348411,0.36918766194508,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","MAIC (means and SDs)",0.0424177562662638,0.437003713454748,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","MAIC (all reported summaries)",0.0338512510089434,0.480913238506848,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","MAIC (means, quartiles and proportions)",-0.0066458044826158,0.434652561493832,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","sMAIC",-0.0105392904581306,0.426051998870501,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","STC",-0.312240483160887,0.50628481995564,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","G-computation",-0.0403015459490088,0.321096870828055,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","G-MAIC (means and SDs)",-0.0323978178656809,0.34531632612141,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","G-MAIC",-0.00724352260003757,0.392366059929587,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","sG-MAIC",-0.011908213905196,0.367376836330574,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","Unadjusted (Bucher)",-0.28762773475842,0.43062208252484,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","MAIC (means)",-0.0475243953515039,0.340623120828769,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","MAIC (means and SDs)",0.0706992706685867,0.424377211719564,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","MAIC (all reported summaries)",0.0641481642120391,0.457355787898122,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","MAIC (means, quartiles and proportions)",0.0158548897773146,0.414792502817343,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","sMAIC",0.00757744588041777,0.412783511948422,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","STC",-0.252763360776647,0.468300443587908,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","G-computation",-0.0831864513331512,0.294854820738547,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","G-MAIC (means and SDs)",-0.072186719194768,0.31706178019931,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","G-MAIC",-0.00277604703144689,0.345772063566161,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","sG-MAIC",-0.00512647684027407,0.327212526516387,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","Unadjusted (Bucher)",-0.220015045665003,0.426200011792966,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","MAIC (means)",-0.211947851055959,0.433982369314229,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","MAIC (means and SDs)",-0.0223179175949578,0.470424517124364,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","MAIC (all reported summaries)",-0.0174860284314108,0.51710548214758,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","MAIC (means, quartiles and proportions)",-0.0640904109400255,0.472204533510955,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","sMAIC",-0.0640782622441255,0.467611700938922,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","STC",-0.347638933271772,0.52619048771677,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","G-computation",-0.177290140766479,0.392553235252421,FALSE,TRUE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","G-MAIC (means and SDs)",-0.0106394241206643,0.384049524846385,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","G-MAIC",-0.0335249133914143,0.437627259926269,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","sG-MAIC",-0.0636275454413594,0.407956914235276,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","Unadjusted (Bucher)",-0.36115519219299,0.52500112853486,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","MAIC (means)",-0.385732505051649,0.554093442562505,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","MAIC (means and SDs)",-0.0147265412363108,0.465804027320313,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","MAIC (all reported summaries)",-0.0063885099470589,0.515888479046099,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","MAIC (means, quartiles and proportions)",-0.115567662316779,0.489713817853976,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","sMAIC",-0.121706389939364,0.483323112160266,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","STC",-0.505044516343472,0.653444428446666,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","G-computation",-0.430751925468022,0.57454836039969,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","G-MAIC (means and SDs)",-0.00417253059963075,0.402740112354413,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","G-MAIC",-0.026800254542903,0.458407575391852,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","sG-MAIC",-0.134354615737337,0.435250461843927,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","Unadjusted (Bucher)",-0.225432914900296,0.417746851140569,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","MAIC (means)",-0.164369310124003,0.403944255749795,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","MAIC (means and SDs)",-1.78569365059367e-05,0.467299314786884,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","MAIC (all reported summaries)",0.0115278918822719,0.519358916629064,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","MAIC (means, quartiles and proportions)",0.00785197043450921,0.471297413355498,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","sMAIC",0.00578413452863565,0.456195267328834,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","STC",-0.337420590042676,0.509274138435762,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","G-computation",-0.100052063839408,0.347032168397662,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","G-MAIC (means and SDs)",-0.0243978665191405,0.360373407837605,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","G-MAIC",-0.0150341329811429,0.409711948038701,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","sG-MAIC",0.00671606752380181,0.377928709413412,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","Unadjusted (Bucher)",-0.350615503948408,0.497107071582976,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","MAIC (means)",-0.252086230930503,0.443574813520713,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","MAIC (means and SDs)",-0.0274207107544026,0.451268691590701,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","MAIC (all reported summaries)",0.00768786149572393,0.492542646455015,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","MAIC (means, quartiles and proportions)",0.00472697888176351,0.451189050195867,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","sMAIC",-0.00220624627971629,0.443178808295682,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","STC",-0.482847391810948,0.622244926424536,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","G-computation",-0.191891274432178,0.376843371562177,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","G-MAIC (means and SDs)",-0.0885163961039255,0.358573986942959,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","G-MAIC",-0.0579247355385177,0.397150075100442,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","sG-MAIC",-0.0219752429745475,0.36901896396242,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","Unadjusted (Bucher)",-0.185276969379516,0.394909509180294,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","MAIC (means)",-0.0154895160031671,0.360317306961422,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","MAIC (means and SDs)",-0.0118436207507598,0.363437261226295,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","MAIC (all reported summaries)",0.0307165862080518,0.444282078962128,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","MAIC (means, quartiles and proportions)",0.0113729579732765,0.428629428895118,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","sMAIC",-0.00482358824213232,0.413876500136166,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","STC",-0.257938469651264,0.474941887867113,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","G-computation",-0.0199806426646738,0.332330841626316,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","G-MAIC (means and SDs)",-0.020611805572773,0.336956765218568,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","G-MAIC",0.0100400351753002,0.389827850383294,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","sG-MAIC",0.011727788737887,0.373976117704645,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","Unadjusted (Bucher)",-0.300547031077118,0.462863720508819,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","MAIC (means)",-0.0633135753419782,0.36280972294003,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","MAIC (means and SDs)",-0.0608370345058635,0.364948682683444,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","MAIC (all reported summaries)",0.026591936424553,0.444207810022886,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","MAIC (means, quartiles and proportions)",0.00156055189188005,0.432156356850042,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","sMAIC",-0.0229836171383436,0.416337077418164,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","STC",-0.225752989688042,0.492392776486602,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","G-computation",-0.0646097380180514,0.3354992673573,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","G-MAIC (means and SDs)",-0.0659042338799123,0.337781543642521,FALSE,TRUE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","G-MAIC",-0.0147588876612624,0.381550766629729,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","sG-MAIC",-0.0164635478380356,0.36431294091398,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","Unadjusted (Bucher)",-0.0541230001035542,0.365703936765207,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","MAIC (means)",0.0010755859472089,0.377288219558414,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","MAIC (means and SDs)",-0.00164046971558089,0.379876112956102,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","MAIC (all reported summaries)",-0.0385129414080883,0.476571778515158,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","MAIC (means, quartiles and proportions)",-0.0593721349407128,0.468762921580684,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","sMAIC",-0.0763031787753797,0.45359053970052,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","STC",-0.18179570673363,0.43145609833773,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","G-computation",-0.0142093276176275,0.352168059042747,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","G-MAIC (means and SDs)",0.00188533412855801,0.355078571748767,FALSE,TRUE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","G-MAIC",-0.0329068172042013,0.431037708834059,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","sG-MAIC",-0.0486815215379776,0.415515330377879,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","Unadjusted (Bucher)",-0.100819495777774,0.36630492015573,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","MAIC (means)",-0.0236848966655502,0.368530961913462,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","MAIC (means and SDs)",-0.027106509123314,0.368247415588505,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","MAIC (all reported summaries)",-0.0567499839282915,0.466001324420388,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","MAIC (means, quartiles and proportions)",-0.099713334184054,0.459604713806301,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","sMAIC",-0.132198117117069,0.455144158957793,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","STC",-0.242750281522041,0.457025763074983,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","G-computation",-0.0706573599823711,0.352532337880545,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","G-MAIC (means and SDs)",-0.031362491738739,0.343773919256028,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","G-MAIC",-0.0578196471464873,0.427030365465027,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","sG-MAIC",-0.108889505100739,0.41862966204913,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","Unadjusted (Bucher)",-0.0965301836492315,0.376244788610345,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","MAIC (means)",-0.00369722063398512,0.377860809321461,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","MAIC (means and SDs)",-0.0027598911034028,0.379874243704195,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","MAIC (all reported summaries)",-0.00952502358704401,0.483382235415195,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","MAIC (means, quartiles and proportions)",-0.0170319362795837,0.464806654789899,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","sMAIC",-0.0199640080613308,0.457504595329456,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","STC",-0.235071523309138,0.466433557207798,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","G-computation",-0.019930483111129,0.355860346333211,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","G-MAIC (means and SDs)",-0.0106462179584405,0.357339516190005,FALSE,TRUE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","G-MAIC",-0.0232647871690565,0.43219147888261,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","sG-MAIC",-0.0103736431474039,0.41819197083327,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","Unadjusted (Bucher)",-0.152783028856486,0.39573906837873,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","MAIC (means)",-0.0150620903281439,0.382321229140022,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","MAIC (means and SDs)",-0.015558762356941,0.383765836640197,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","MAIC (all reported summaries)",0.0113347684979594,0.47094335159957,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","MAIC (means, quartiles and proportions)",0.0106472690680671,0.458846140047199,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","sMAIC",0.00994667418048588,0.442935694540819,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","STC",-0.301749766661782,0.514568734393001,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","G-computation",-0.0337874908671864,0.3540896539664,FALSE,TRUE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","G-MAIC (means and SDs)",-0.0215078712768995,0.352684824867247,TRUE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","G-MAIC",-0.00888225152139255,0.416649295129558,FALSE,FALSE,0
+"Anchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","sG-MAIC",0.0214008336147384,0.396004220250962,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","Unadjusted (Bucher)",-0.544351273300033,0.570435976717918,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","MAIC (means)",-0.0622199838224449,0.154470430216628,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","MAIC (means and SDs)",0.0490845276354962,0.155648483092913,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","MAIC (all reported summaries)",0.0507598207647018,0.166866868479392,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","MAIC (means, quartiles and proportions)",-0.0112204887025095,0.146131957764366,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","sMAIC",-0.0054072161701327,0.144392946586522,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","STC",-0.367779943005298,0.4162682761524,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","G-computation",-0.00840924223503047,0.134098100268663,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","G-MAIC (means and SDs)",-0.00842639833464844,0.138970394670549,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","G-MAIC",-0.00853092712568265,0.153720646091639,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, moderate","sG-MAIC",-0.00920563885978005,0.138767454871634,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","Unadjusted (Bucher)",-0.573967955597888,0.598516657577545,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","MAIC (means)",-0.024652275637503,0.128295161196377,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","MAIC (means and SDs)",0.0518281034623789,0.141907865480793,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","MAIC (all reported summaries)",0.0629426031528046,0.151011996882372,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","MAIC (means, quartiles and proportions)",0.00808309027036401,0.125557934757169,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","sMAIC",0.00799383351064531,0.127868764874202,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","STC",-0.25172244727263,0.342534753994938,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","G-computation",0.00138326327700594,0.117096331617606,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","G-MAIC (means and SDs)",0.00190378913939162,0.120089416452913,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","G-MAIC",0.000650879215856546,0.126431481976766,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Linear, strong","sG-MAIC",0.00195270037618955,0.119769074545679,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","Unadjusted (Bucher)",-0.536253438979497,0.568367101816717,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","MAIC (means)",-0.167978912275664,0.241543180945083,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","MAIC (means and SDs)",0.0219962550905497,0.18055629047814,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","MAIC (all reported summaries)",0.0258246998695508,0.202017545653854,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","MAIC (means, quartiles and proportions)",-0.0638940607209378,0.19575499786385,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","sMAIC",-0.0532834695585867,0.186335849655332,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","STC",-0.412411973301962,0.45612951303803,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","G-computation",-0.122789503438443,0.210144982267379,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","G-MAIC (means and SDs)",-0.016830058523437,0.178161087830268,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","G-MAIC",-0.0156190601780045,0.197566116430941,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, moderate","sG-MAIC",-0.0464979931383422,0.183251966459874,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","Unadjusted (Bucher)",-0.632364053732773,0.659798338006859,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","MAIC (means)",-0.248574752437866,0.299056694975201,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","MAIC (means and SDs)",0.0311123857536905,0.170232684152104,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","MAIC (all reported summaries)",0.042140973701864,0.191307301654373,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","MAIC (means, quartiles and proportions)",-0.0885733571036451,0.188889984156558,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","sMAIC",-0.0793736532871125,0.179106368457112,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","STC",-0.51620829897876,0.550886109295871,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","G-computation",-0.22540514562537,0.279035589940222,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","G-MAIC (means and SDs)",-0.00426701254226485,0.16458148800628,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","G-MAIC",5.87789425572554e-05,0.18643397359825,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","U-shaped, strong","sG-MAIC",-0.0749576784311214,0.174114949990585,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","Unadjusted (Bucher)",-0.527982147087924,0.559764557925685,FALSE,FALSE,0.01698209974256
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","MAIC (means)",-0.126972778053248,0.207513416879863,FALSE,FALSE,0.01698209974256
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","MAIC (means and SDs)",0.0435107788139231,0.174030892457542,FALSE,FALSE,0.01698209974256
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","MAIC (all reported summaries)",0.0288686440055211,0.191323636440035,FALSE,FALSE,0.01698209974256
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","MAIC (means, quartiles and proportions)",0.0027297891240789,0.164844154150331,FALSE,FALSE,0.01698209974256
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","sMAIC",0.00569683095407201,0.162011174569865,FALSE,FALSE,0.01698209974256
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","STC",-0.404162930663046,0.449093188987383,FALSE,FALSE,0.01698209974256
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","G-computation",-0.0700391380426987,0.17223370511134,FALSE,FALSE,0.01698209974256
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","G-MAIC (means and SDs)",-0.00283117223704598,0.162573449814278,FALSE,TRUE,0.01698209974256
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","G-MAIC",-0.0203247403789101,0.183773718653335,FALSE,FALSE,0.01698209974256
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, moderate","sG-MAIC",0.00937696821912544,0.159858713201965,TRUE,FALSE,0.01698209974256
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","Unadjusted (Bucher)",-0.647010844636803,0.671704982523347,FALSE,FALSE,0.0818519257443
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","MAIC (means)",-0.194931385886523,0.247247462410116,FALSE,FALSE,0.0818519257443
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","MAIC (means and SDs)",0.0220257776125986,0.157714779817856,FALSE,FALSE,0.0818519257443
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","MAIC (all reported summaries)",0.0114605999443105,0.163897218894721,FALSE,FALSE,0.0818519257443
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","MAIC (means, quartiles and proportions)",-0.0108378341632127,0.14565746741218,FALSE,FALSE,0.0818519257443
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","sMAIC",-0.00940005545727554,0.143128707572142,FALSE,FALSE,0.0818519257443
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","STC",-0.537054354183597,0.570969673105183,FALSE,FALSE,0.0818519257443
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","G-computation",-0.13892204413846,0.201042820978573,FALSE,FALSE,0.0818519257443
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","G-MAIC (means and SDs)",-0.0350603069814076,0.152382807803687,FALSE,FALSE,0.0818519257443
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","G-MAIC",-0.0495824553941781,0.166454480115687,FALSE,FALSE,0.0818519257443
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Normal","Threshold, strong","sG-MAIC",-0.012492364825806,0.140853664145257,TRUE,FALSE,0.0818519257443
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","Unadjusted (Bucher)",-0.509829006543023,0.538944406818195,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","MAIC (means)",-0.0161724879586156,0.141623870831965,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","MAIC (means and SDs)",0.013606309149214,0.14368402492963,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","MAIC (all reported summaries)",0.0252416272591075,0.160410429529012,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","MAIC (means, quartiles and proportions)",-0.00545436532736478,0.148630187382815,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","sMAIC",-0.0135822938684067,0.148059022511824,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","STC",-0.272921922365756,0.340734838660559,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","G-computation",0.0843172490016353,0.164346510900122,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","G-MAIC (means and SDs)",0.0850173665983647,0.169388493391569,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","G-MAIC",-0.0211659775850282,0.161343718801203,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, moderate","sG-MAIC",-0.0229050630912792,0.148928593972134,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","Unadjusted (Bucher)",-0.546934654593014,0.573245796746304,FALSE,FALSE,0.03255617756423
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","MAIC (means)",-0.0050276168944156,0.129653955070658,FALSE,FALSE,0.03255617756423
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","MAIC (means and SDs)",0.00383124702726629,0.131046891411966,FALSE,FALSE,0.03255617756423
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","MAIC (all reported summaries)",0.0372889442735164,0.145736197665707,FALSE,FALSE,0.03255617756423
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","MAIC (means, quartiles and proportions)",0.0161902179555302,0.132068976578531,FALSE,FALSE,0.03255617756423
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","sMAIC",0.000229183250689371,0.133463715017597,FALSE,FALSE,0.03255617756423
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","STC",-0.123028921223531,0.272687490296141,FALSE,FALSE,0.03255617756423
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","G-computation",0.131749592656752,0.180311569427368,FALSE,FALSE,0.03255617756423
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","G-MAIC (means and SDs)",0.131142047007522,0.181746116890312,FALSE,FALSE,0.03255617756423
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","G-MAIC",0.00645848873378498,0.133090645411084,FALSE,FALSE,0.03255617756423
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Linear, strong","sG-MAIC",0.0072091395517683,0.125566005886971,TRUE,FALSE,0.03255617756423
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","Unadjusted (Bucher)",-0.478376322808926,0.516023148599584,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","MAIC (means)",-0.0474885363786809,0.165055291836085,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","MAIC (means and SDs)",0.0383827282931191,0.161205438114578,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","MAIC (all reported summaries)",0.0262055686909919,0.182361690070437,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","MAIC (means, quartiles and proportions)",-0.0513124032650855,0.17470085591864,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","sMAIC",-0.0417806767854061,0.166603931165029,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","STC",-0.334592628546648,0.387321657764392,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","G-computation",0.000834014108072978,0.161672069091379,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","G-MAIC (means and SDs)",0.0688345210234536,0.173744300575575,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","G-MAIC",-0.0371559500579418,0.184547177874719,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, moderate","sG-MAIC",-0.0611838515921802,0.173906178892811,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","Unadjusted (Bucher)",-0.516700071205534,0.547899783098413,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","MAIC (means)",-0.0444662829921617,0.158033695610635,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","MAIC (means and SDs)",0.0680430971631045,0.166349089529398,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","MAIC (all reported summaries)",0.057681665494333,0.175577128813184,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","MAIC (means, quartiles and proportions)",-0.0450094225557808,0.159609549306483,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","sMAIC",-0.0378220061392516,0.154929362670067,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","STC",-0.386466193122483,0.435829367995051,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","G-computation",0.00863394319843643,0.152409368031964,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","G-MAIC (means and SDs)",0.111408923773272,0.186077040763856,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","G-MAIC",-0.0101742568336151,0.16027877693443,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","U-shaped, strong","sG-MAIC",-0.0564193336202685,0.157919999194431,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","Unadjusted (Bucher)",-0.422590966805482,0.462993282045924,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","MAIC (means)",0.0069604131951271,0.162020987915144,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","MAIC (means and SDs)",0.0704931183167067,0.178367450624529,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","MAIC (all reported summaries)",0.0139985848376227,0.183960505070235,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","MAIC (means, quartiles and proportions)",-0.0089982745968687,0.168771372522266,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","sMAIC",-0.010971824230293,0.164905912165049,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","STC",-0.270414417524742,0.336592500331722,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","G-computation",0.0679447605951022,0.178735066789997,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","G-MAIC (means and SDs)",0.106782611135284,0.199839413445412,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","G-MAIC",-0.0474860237839383,0.191364286362822,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, moderate","sG-MAIC",-0.0299807776792349,0.170256418746327,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","Unadjusted (Bucher)",-0.466981216378128,0.501096304202091,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","MAIC (means)",0.0222232311230528,0.146479838000393,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","MAIC (means and SDs)",0.0977284640416405,0.176720144600217,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","MAIC (all reported summaries)",0.000318732809729212,0.166313162529552,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","MAIC (means, quartiles and proportions)",-0.00655735638863528,0.150941942241009,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","sMAIC",-0.00999202246045317,0.147462214707605,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","STC",-0.305757797851697,0.368177252374771,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","G-computation",0.104572251509023,0.180351783661555,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","G-MAIC (means and SDs)",0.159259527063165,0.216975581118886,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","G-MAIC",-0.0641096199515109,0.177745969871377,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Right-skewed","Threshold, strong","sG-MAIC",-0.024660773577619,0.149153870646656,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","Unadjusted (Bucher)",-0.571246090439013,0.597980010899367,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","MAIC (means)",-0.117688908817532,0.193686093985197,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","MAIC (means and SDs)",0.0849807218095898,0.184234873339174,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","MAIC (all reported summaries)",0.0844393076988304,0.200090370525561,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","MAIC (means, quartiles and proportions)",0.0156230466368375,0.167539944148671,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","sMAIC",0.00560803858149906,0.165252656854567,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","STC",-0.415982947722897,0.459958919096759,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","G-computation",-0.0575535290307465,0.148968570873803,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","G-MAIC (means and SDs)",-0.0592782849796255,0.156438414910211,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","G-MAIC",0.00408779667174243,0.169697032821316,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, moderate","sG-MAIC",0.00499208714945117,0.158823192087882,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","Unadjusted (Bucher)",-0.632823570317469,0.654463145677861,FALSE,FALSE,0.27150437112209
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","MAIC (means)",-0.0973949917117496,0.163600573713875,FALSE,FALSE,0.27150437112209
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","MAIC (means and SDs)",0.098863518493294,0.169546490596172,FALSE,FALSE,0.27150437112209
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","MAIC (all reported summaries)",0.0995038884268712,0.175982650440701,FALSE,FALSE,0.27150437112209
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","MAIC (means, quartiles and proportions)",0.0191354012037434,0.13349838471359,FALSE,FALSE,0.27150437112209
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","sMAIC",0.00605809916553284,0.134529390470526,FALSE,FALSE,0.27150437112209
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","STC",-0.371661081368908,0.43670408556379,FALSE,FALSE,0.27150437112209
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","G-computation",-0.109224159396811,0.157420363571642,FALSE,FALSE,0.27150437112209
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","G-MAIC (means and SDs)",-0.113396385997133,0.162128422491066,FALSE,FALSE,0.27150437112209
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","G-MAIC",-0.00726309977187331,0.134652903705814,FALSE,FALSE,0.27150437112209
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Linear, strong","sG-MAIC",-0.00455484105587482,0.123806388044676,TRUE,FALSE,0.27150437112209
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","Unadjusted (Bucher)",-0.56650831680123,0.596831555183274,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","MAIC (means)",-0.256483480561528,0.313192946855637,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","MAIC (means and SDs)",0.0110417549610619,0.199053453939696,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","MAIC (all reported summaries)",0.0131179286644078,0.230044591890237,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","MAIC (means, quartiles and proportions)",-0.0691230178850568,0.221849085611055,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","sMAIC",-0.070299459100545,0.214360480061443,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","STC",-0.445689246216928,0.485877438511551,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","G-computation",-0.199918913500929,0.265906793545084,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","G-MAIC (means and SDs)",-0.0393019612387371,0.19271517208279,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","G-MAIC",-0.0210338525632921,0.225256638221807,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, moderate","sG-MAIC",-0.0561579586023326,0.208062811602039,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","Unadjusted (Bucher)",-0.708922583564466,0.732886319991904,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","MAIC (means)",-0.442333102032372,0.480179286006885,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","MAIC (means and SDs)",0.0123152627824196,0.183780321803709,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","MAIC (all reported summaries)",0.0230647113058562,0.206727563100594,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","MAIC (means, quartiles and proportions)",-0.129843802298588,0.231432060380008,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","sMAIC",-0.133361458554221,0.228631537615825,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","STC",-0.608144671948828,0.637475527108047,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","G-computation",-0.475150587511003,0.512140276389452,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","G-MAIC (means and SDs)",-0.00989119187946646,0.182888226531412,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","G-MAIC",0.0126887469262575,0.207216195446211,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","U-shaped, strong","sG-MAIC",-0.1191046108317,0.21872839184243,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","Unadjusted (Bucher)",-0.576192303857147,0.604589897413764,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","MAIC (means)",-0.222624718622801,0.281954811329603,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","MAIC (means and SDs)",0.0188915402945027,0.186619592859757,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","MAIC (all reported summaries)",0.0286515693735117,0.211631670781021,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","MAIC (means, quartiles and proportions)",-0.00317789376963564,0.189525039373582,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","sMAIC",-0.00587083434857385,0.186757475603514,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","STC",-0.45474675776688,0.493234350004942,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","G-computation",-0.135074898362645,0.212077508522227,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","G-MAIC (means and SDs)",-0.067434114051931,0.182074385928888,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","G-MAIC",-0.0275686086766911,0.201567548366051,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, moderate","sG-MAIC",0.00254449165077034,0.183150535607977,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","Unadjusted (Bucher)",-0.689055875255604,0.711666251634033,FALSE,FALSE,0.07189188107605
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","MAIC (means)",-0.29460701131141,0.336094544418574,FALSE,FALSE,0.07189188107605
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","MAIC (means and SDs)",0.00104604198458036,0.166554766468464,FALSE,FALSE,0.07189188107605
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","MAIC (all reported summaries)",0.0322746417125631,0.186290745676614,FALSE,FALSE,0.07189188107605
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","MAIC (means, quartiles and proportions)",0.00383955509852532,0.169297474838815,FALSE,FALSE,0.07189188107605
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","sMAIC",-1.81304281745476e-05,0.162685425038907,FALSE,FALSE,0.07189188107605
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","STC",-0.574676040642177,0.604289524056824,FALSE,FALSE,0.07189188107605
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","G-computation",-0.209139501968404,0.257874093135835,FALSE,FALSE,0.07189188107605
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","G-MAIC (means and SDs)",-0.108877720944101,0.185638890020703,FALSE,FALSE,0.07189188107605
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","G-MAIC",-0.0400403025280605,0.178249810757143,FALSE,FALSE,0.07189188107605
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Left-skewed","Threshold, strong","sG-MAIC",0.00330799391507196,0.155383923890965,TRUE,FALSE,0.07189188107605
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","Unadjusted (Bucher)",-0.530787125887477,0.559927597257029,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","MAIC (means)",-0.0501595567533185,0.159513503428184,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","MAIC (means and SDs)",-0.0459947828895399,0.158989191981215,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","MAIC (all reported summaries)",0.0154219412954194,0.183478681164093,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","MAIC (means, quartiles and proportions)",-0.0149301510876663,0.181897698974843,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","sMAIC",-0.0403577341973527,0.180014988942473,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","STC",-0.362618575122421,0.417048590129192,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","G-computation",-0.0528111782672985,0.160201289883772,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","G-MAIC (means and SDs)",-0.0520819874680343,0.159356834239367,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","G-MAIC",-0.0170395144907262,0.179018880245147,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, moderate","sG-MAIC",-0.0130612211180594,0.173465081327709,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","Unadjusted (Bucher)",-0.625747714776185,0.64985622066212,FALSE,FALSE,0.0717962999506301
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","MAIC (means)",-0.0710769526108096,0.146865782736975,FALSE,FALSE,0.0717962999506301
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","MAIC (means and SDs)",-0.0638379817757446,0.144798061562152,FALSE,FALSE,0.0717962999506301
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","MAIC (all reported summaries)",0.0506408782506375,0.155387169596783,FALSE,FALSE,0.0717962999506301
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","MAIC (means, quartiles and proportions)",0.0115180377032163,0.14609740312148,FALSE,FALSE,0.0717962999506301
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","sMAIC",-0.0193174619713854,0.143700188474755,FALSE,FALSE,0.0717962999506301
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","STC",-0.310072574330561,0.383991278703158,FALSE,FALSE,0.0717962999506301
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","G-computation",-0.0738722420366414,0.144802520645096,FALSE,FALSE,0.0717962999506301
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","G-MAIC (means and SDs)",-0.0734230968207325,0.145337246398982,FALSE,FALSE,0.0717962999506301
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","G-MAIC",-0.00640089852164833,0.141716286695636,FALSE,FALSE,0.0717962999506301
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Linear, strong","sG-MAIC",-0.00379853163959082,0.1350984898612,TRUE,FALSE,0.0717962999506301
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","Unadjusted (Bucher)",-0.367532523599388,0.413768525790713,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","MAIC (means)",-0.00291963392146505,0.17862435045066,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","MAIC (means and SDs)",-0.00229853686821892,0.176996961376742,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","MAIC (all reported summaries)",-0.0138279404987926,0.233033837614725,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","MAIC (means, quartiles and proportions)",-0.0417838105067712,0.23075940668731,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","sMAIC",-0.0678682243759511,0.230752062904506,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","STC",-0.249345578293363,0.320716586781062,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","G-computation",-0.0219979507166922,0.17982202031169,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","G-MAIC (means and SDs)",-0.00369061115040675,0.177772237006039,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","G-MAIC",-0.0244524486992845,0.232162553304396,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, moderate","sG-MAIC",-0.0406444283819309,0.22747111053566,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","Unadjusted (Bucher)",-0.39160915382805,0.434827456276851,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","MAIC (means)",-0.0103300613558409,0.172155368471655,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","MAIC (means and SDs)",-0.0140552922599717,0.165614415470597,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","MAIC (all reported summaries)",-0.0078777903875578,0.218221585705588,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","MAIC (means, quartiles and proportions)",-0.053391203102783,0.22074114974783,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","sMAIC",-0.0925706758117439,0.227673243399263,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","STC",-0.277768294973495,0.341721109651885,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","G-computation",-0.0514919504168491,0.178488427350561,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","G-MAIC (means and SDs)",-0.015367647613444,0.164369919091111,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","G-MAIC",-0.0193280486616532,0.216740629938463,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","U-shaped, strong","sG-MAIC",-0.0617786704509042,0.216973676118923,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","Unadjusted (Bucher)",-0.415705737047795,0.45396316663434,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","MAIC (means)",-0.0145627512472266,0.168811257963109,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","MAIC (means and SDs)",-0.0140217864879834,0.168809227143197,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","MAIC (all reported summaries)",3.74741773201611e-05,0.210586420854697,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","MAIC (means, quartiles and proportions)",-0.0129873397523804,0.207767802927466,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","sMAIC",-0.0228062760441819,0.199563259403047,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","STC",-0.288647730843596,0.346356815906276,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","G-computation",-0.0260926788860506,0.170628788421491,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","G-MAIC (means and SDs)",-0.0161275909529795,0.169079808937482,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","G-MAIC",-0.0145060619066503,0.20723373047987,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, moderate","sG-MAIC",0.00637134929513729,0.198617264588669,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","Unadjusted (Bucher)",-0.468850124658045,0.504832755437941,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","MAIC (means)",-0.023018101621013,0.164085847288766,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","MAIC (means and SDs)",-0.0207998872310017,0.157547073501312,TRUE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","MAIC (all reported summaries)",0.0250030107658977,0.189177209152151,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","MAIC (means, quartiles and proportions)",0.0103170847989913,0.18287896176808,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","sMAIC",0.00135435107195042,0.175369001720062,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","STC",-0.36855958314639,0.420982393164197,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","G-computation",-0.0385485811544927,0.163064590286573,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","G-MAIC (means and SDs)",-0.025158677601541,0.158818037226203,FALSE,TRUE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","G-MAIC",0.00215714840592218,0.184747534830122,FALSE,FALSE,0
+"Unanchored comparison, binary outcome (marginal log odds ratio)","Truncated comparator","Threshold, strong","sG-MAIC",0.0339317264355131,0.177251182112981,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, moderate","Unadjusted (Bucher)",-0.190272104519212,0.273931562559569,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, moderate","MAIC (means)",-0.0201337116220869,0.187886053232049,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, moderate","MAIC (means and SDs)",0.0211161143944012,0.223733802230577,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, moderate","MAIC (all reported summaries)",0.0304697481798782,0.240534195432705,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, moderate","MAIC (means, quartiles and proportions)",-0.00700914677559037,0.203045774753879,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, moderate","sMAIC",-0.00588323862067447,0.204898317020043,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, moderate","STC",-0.0185714951961289,0.19428033857733,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, moderate","G-computation",-0.000214859478617729,0.147485012039667,TRUE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, moderate","G-MAIC (means and SDs)",-0.00106134073774287,0.151100234277008,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, moderate","G-MAIC",-0.00126342403386551,0.157726036832469,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, moderate","sG-MAIC",-0.0017043574578938,0.149591377144061,FALSE,TRUE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, strong","Unadjusted (Bucher)",-0.259423106224099,0.32832265437522,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, strong","MAIC (means)",-0.00635572525467625,0.189667335504143,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, strong","MAIC (means and SDs)",0.0208376823244952,0.226938800415946,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, strong","MAIC (all reported summaries)",0.0243278399106045,0.244413435260516,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, strong","MAIC (means, quartiles and proportions)",-0.00696238138129746,0.210783014939669,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, strong","sMAIC",-0.00747400683013401,0.210459597762588,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, strong","STC",0.265293762483906,0.349155882952269,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, strong","G-computation",-0.00489327745792312,0.15331166460752,TRUE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, strong","G-MAIC (means and SDs)",-0.00861409510187934,0.156772202184628,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, strong","G-MAIC",-0.0101609744215431,0.159219802998153,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Linear, strong","sG-MAIC",-0.00786026836704539,0.154026141948804,FALSE,TRUE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, moderate","Unadjusted (Bucher)",-0.151066260629619,0.244164883149018,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, moderate","MAIC (means)",-0.124770096160154,0.225300633071118,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, moderate","MAIC (means and SDs)",0.0167309618303116,0.218644151419378,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, moderate","MAIC (all reported summaries)",0.0229367088774516,0.235311652339584,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, moderate","MAIC (means, quartiles and proportions)",-0.0451921851458045,0.210166624364876,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, moderate","sMAIC",-0.0398282638228821,0.206355405110235,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, moderate","STC",-0.325274855974812,0.380241103195142,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, moderate","G-computation",-0.0739277075112252,0.177097049484578,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, moderate","G-MAIC (means and SDs)",-0.0118354154945973,0.168502069541203,TRUE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, moderate","G-MAIC",-0.0128685777846967,0.175350312979043,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, moderate","sG-MAIC",-0.0449697056314311,0.169847499534945,FALSE,TRUE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, strong","Unadjusted (Bucher)",-0.225802889974914,0.293493759329608,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, strong","MAIC (means)",-0.205357287820659,0.276815577288175,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, strong","MAIC (means and SDs)",0.0181510531362529,0.210975675773544,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, strong","MAIC (all reported summaries)",0.0257041437506686,0.231541208970625,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, strong","MAIC (means, quartiles and proportions)",-0.0851697129639631,0.217753355998992,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, strong","sMAIC",-0.0775432472222685,0.213769950690151,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, strong","STC",-0.392556587739553,0.438589924146192,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, strong","G-computation",-0.139463138965451,0.211273202021112,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, strong","G-MAIC (means and SDs)",-0.00653641340709522,0.164029826483083,TRUE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, strong","G-MAIC",-0.0114131011348075,0.175557746549852,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","U-shaped, strong","sG-MAIC",-0.0746049314156715,0.171887819164112,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, moderate","Unadjusted (Bucher)",-0.145716325526596,0.245655606126036,FALSE,FALSE,0.0109551562659
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, moderate","MAIC (means)",-0.0852221763272,0.209899614846178,FALSE,FALSE,0.0109551562659
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, moderate","MAIC (means and SDs)",0.023958116241309,0.223474790742216,FALSE,FALSE,0.0109551562659
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, moderate","MAIC (all reported summaries)",0.0179847623117018,0.241366648881959,FALSE,FALSE,0.0109551562659
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, moderate","MAIC (means, quartiles and proportions)",-0.00733300781883792,0.212993297555371,FALSE,FALSE,0.0109551562659
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, moderate","sMAIC",-0.0024901694249485,0.209303334256765,FALSE,FALSE,0.0109551562659
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, moderate","STC",-0.257129535966071,0.327794656977683,FALSE,FALSE,0.0109551562659
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, moderate","G-computation",-0.0459943750960227,0.170967200728663,FALSE,FALSE,0.0109551562659
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, moderate","G-MAIC (means and SDs)",-0.0200692562866062,0.167457501382344,FALSE,TRUE,0.0109551562659
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, moderate","G-MAIC",-0.0314809971268529,0.179927931686427,FALSE,FALSE,0.0109551562659
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, moderate","sG-MAIC",-0.0170429617904046,0.165642857988747,TRUE,FALSE,0.0109551562659
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, strong","Unadjusted (Bucher)",-0.222749877533136,0.285721304686995,FALSE,FALSE,0.03028191089654
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, strong","MAIC (means)",-0.122361656214909,0.219029788313356,FALSE,FALSE,0.03028191089654
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, strong","MAIC (means and SDs)",0.0132419466288343,0.217626843587301,FALSE,FALSE,0.03028191089654
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, strong","MAIC (all reported summaries)",0.00543376976479372,0.234647951403851,FALSE,FALSE,0.03028191089654
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, strong","MAIC (means, quartiles and proportions)",-0.0166967210153242,0.203492356657202,FALSE,FALSE,0.03028191089654
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, strong","sMAIC",-0.0140574999038638,0.202536843031536,FALSE,FALSE,0.03028191089654
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, strong","STC",-0.270714771918048,0.334472013259301,FALSE,FALSE,0.03028191089654
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, strong","G-computation",-0.0694513837380407,0.1645223124348,FALSE,FALSE,0.03028191089654
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, strong","G-MAIC (means and SDs)",-0.0382248244854085,0.154833250615766,FALSE,FALSE,0.03028191089654
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, strong","G-MAIC",-0.0512242107777663,0.1674869856338,FALSE,FALSE,0.03028191089654
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Normal","Threshold, strong","sG-MAIC",-0.0295551858090843,0.15028241200608,TRUE,FALSE,0.03028191089654
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, moderate","Unadjusted (Bucher)",-0.189745747622129,0.278320486761104,FALSE,FALSE,0.0280542501274801
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, moderate","MAIC (means)",-0.0126734522820909,0.196093813932565,FALSE,FALSE,0.0280542501274801
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, moderate","MAIC (means and SDs)",-0.00718544721368051,0.211650562384076,FALSE,FALSE,0.0280542501274801
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, moderate","MAIC (all reported summaries)",0.0170476714750916,0.229320878768406,FALSE,FALSE,0.0280542501274801
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, moderate","MAIC (means, quartiles and proportions)",-0.00270852298278906,0.202519388895404,FALSE,FALSE,0.0280542501274801
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, moderate","sMAIC",-0.00734400895902809,0.200966867233416,FALSE,FALSE,0.0280542501274801
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, moderate","STC",0.0363840410564765,0.20669357699382,FALSE,FALSE,0.0280542501274801
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, moderate","G-computation",0.0553049500227977,0.163126644871574,FALSE,FALSE,0.0280542501274801
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, moderate","G-MAIC (means and SDs)",0.0552246749288616,0.163743238549675,FALSE,FALSE,0.0280542501274801
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, moderate","G-MAIC",-0.00414998473862413,0.163533170449252,FALSE,FALSE,0.0280542501274801
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, moderate","sG-MAIC",-0.00242017707628866,0.158675133001343,TRUE,FALSE,0.0280542501274801
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, strong","Unadjusted (Bucher)",-0.265334462837402,0.331834671942488,FALSE,FALSE,0.07917902259805
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, strong","MAIC (means)",-0.0188522266899635,0.190383601742233,FALSE,FALSE,0.07917902259805
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, strong","MAIC (means and SDs)",-0.0277768421730641,0.207353638820839,FALSE,FALSE,0.07917902259805
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, strong","MAIC (all reported summaries)",0.00638404823785805,0.226064685903573,FALSE,FALSE,0.07917902259805
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, strong","MAIC (means, quartiles and proportions)",-0.0042960711563786,0.200548650575209,FALSE,FALSE,0.07917902259805
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, strong","sMAIC",-0.0153904933406939,0.197464288367998,FALSE,FALSE,0.07917902259805
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, strong","STC",0.341394793778892,0.408031249854996,FALSE,FALSE,0.07917902259805
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, strong","G-computation",0.0738485567763095,0.163479833345844,FALSE,FALSE,0.07917902259805
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, strong","G-MAIC (means and SDs)",0.0721696627062793,0.162594296874304,FALSE,FALSE,0.07917902259805
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, strong","G-MAIC",-0.00553900703796521,0.155842508333985,FALSE,FALSE,0.07917902259805
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Linear, strong","sG-MAIC",-0.00588948054188051,0.150664804883688,TRUE,FALSE,0.07917902259805
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, moderate","Unadjusted (Bucher)",-0.125118249616875,0.230472702842425,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, moderate","MAIC (means)",-0.0497290891918956,0.204558418662259,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, moderate","MAIC (means and SDs)",0.00993094122748203,0.212233937817735,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, moderate","MAIC (all reported summaries)",0.0114940307983096,0.230639850413011,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, moderate","MAIC (means, quartiles and proportions)",-0.0413573274388007,0.207369741165324,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, moderate","sMAIC",-0.0440820153590397,0.205938502269823,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, moderate","STC",-0.196765576950864,0.281571141900305,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, moderate","G-computation",0.0219331400207673,0.16157499842795,TRUE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, moderate","G-MAIC (means and SDs)",0.0418781558960856,0.162804588188495,FALSE,TRUE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, moderate","G-MAIC",-0.0172431012543126,0.172918381101378,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, moderate","sG-MAIC",-0.0404873601384669,0.168977585454779,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, strong","Unadjusted (Bucher)",-0.150042028768454,0.243841735451048,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, strong","MAIC (means)",-0.0506554583789854,0.202059902878114,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, strong","MAIC (means and SDs)",0.0361732619953387,0.213888136897844,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, strong","MAIC (all reported summaries)",0.0341129370219228,0.22952434808028,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, strong","MAIC (means, quartiles and proportions)",-0.0433672111584332,0.204476902654201,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, strong","sMAIC",-0.0461817993142742,0.207214127789041,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, strong","STC",-0.163654482809274,0.261791272085893,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, strong","G-computation",0.0422264248432617,0.164140360539103,TRUE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, strong","G-MAIC (means and SDs)",0.0760305638067452,0.175828598586589,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, strong","G-MAIC",-0.00764879173983644,0.168002296930056,FALSE,TRUE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","U-shaped, strong","sG-MAIC",-0.0517488840740571,0.167899838909933,FALSE,TRUE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, moderate","Unadjusted (Bucher)",-0.103538514804028,0.22016551326742,FALSE,FALSE,0.00204001196318004
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, moderate","MAIC (means)",-0.00768396001519866,0.188446092267854,FALSE,FALSE,0.00204001196318004
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, moderate","MAIC (means and SDs)",0.035662792410644,0.206847686652861,FALSE,FALSE,0.00204001196318004
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, moderate","MAIC (all reported summaries)",0.00495432368787121,0.221622583701548,FALSE,FALSE,0.00204001196318004
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, moderate","MAIC (means, quartiles and proportions)",-0.015458178734565,0.198306604791775,FALSE,FALSE,0.00204001196318004
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, moderate","sMAIC",-0.0166661991209586,0.193641455449138,FALSE,FALSE,0.00204001196318004
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, moderate","STC",-0.147806346531415,0.251104302468368,FALSE,FALSE,0.00204001196318004
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, moderate","G-computation",0.0488920986191021,0.166118607038871,FALSE,TRUE,0.00204001196318004
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, moderate","G-MAIC (means and SDs)",0.062971313569831,0.172424053355728,FALSE,FALSE,0.00204001196318004
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, moderate","G-MAIC",-0.0264069262896666,0.178383364799756,FALSE,FALSE,0.00204001196318004
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, moderate","sG-MAIC",-0.0194022002176748,0.165780413013064,TRUE,FALSE,0.00204001196318004
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, strong","Unadjusted (Bucher)",-0.140795190674128,0.239361997736447,FALSE,FALSE,0.09686882194274
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, strong","MAIC (means)",-0.0023139739192183,0.197724241103982,FALSE,FALSE,0.09686882194274
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, strong","MAIC (means and SDs)",0.0489252824208022,0.216249676748601,FALSE,FALSE,0.09686882194274
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, strong","MAIC (all reported summaries)",0.00338429614510415,0.227385367906078,FALSE,FALSE,0.09686882194274
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, strong","MAIC (means, quartiles and proportions)",-0.012146435941828,0.202243939610331,FALSE,FALSE,0.09686882194274
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, strong","sMAIC",-0.017146813377964,0.201264558746647,FALSE,FALSE,0.09686882194274
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, strong","STC",-0.083484048492317,0.223693965922594,FALSE,FALSE,0.09686882194274
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, strong","G-computation",0.0854833306548813,0.180305843558783,FALSE,FALSE,0.09686882194274
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, strong","G-MAIC (means and SDs)",0.098361640560003,0.187555499677698,FALSE,FALSE,0.09686882194274
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, strong","G-MAIC",-0.0366489992055119,0.178293332244528,FALSE,FALSE,0.09686882194274
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Right-skewed","Threshold, strong","sG-MAIC",-0.01761652484544,0.16438232170683,TRUE,FALSE,0.09686882194274
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, moderate","Unadjusted (Bucher)",-0.202406539744962,0.27986426583677,FALSE,FALSE,0.02457951001208
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, moderate","MAIC (means)",-0.0483671830751085,0.1945550660292,FALSE,FALSE,0.02457951001208
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, moderate","MAIC (means and SDs)",0.0445754745391655,0.238990605991044,FALSE,FALSE,0.02457951001208
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, moderate","MAIC (all reported summaries)",0.0403059361211847,0.258846764156089,FALSE,FALSE,0.02457951001208
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, moderate","MAIC (means, quartiles and proportions)",0.000657004468724346,0.22793705168687,FALSE,FALSE,0.02457951001208
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, moderate","sMAIC",-0.00325019285627956,0.224351404071117,FALSE,FALSE,0.02457951001208
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, moderate","STC",-0.0750236541165158,0.221109613672703,FALSE,FALSE,0.02457951001208
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, moderate","G-computation",-0.0552664339740003,0.161649643194409,FALSE,FALSE,0.02457951001208
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, moderate","G-MAIC (means and SDs)",-0.0566727760570521,0.168770686251624,FALSE,FALSE,0.02457951001208
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, moderate","G-MAIC",-0.0150524042191351,0.165381295318486,FALSE,FALSE,0.02457951001208
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, moderate","sG-MAIC",-0.0160800318870767,0.157771692303806,TRUE,FALSE,0.02457951001208
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, strong","Unadjusted (Bucher)",-0.268225680237073,0.332989097068442,FALSE,FALSE,0.12072636162555
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, strong","MAIC (means)",-0.0291140601684672,0.187216730824339,FALSE,FALSE,0.12072636162555
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, strong","MAIC (means and SDs)",0.0704729716626932,0.250932681804292,FALSE,FALSE,0.12072636162555
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, strong","MAIC (all reported summaries)",0.063156738426888,0.265710013763492,FALSE,FALSE,0.12072636162555
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, strong","MAIC (means, quartiles and proportions)",0.00754346858930972,0.224108145321835,FALSE,FALSE,0.12072636162555
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, strong","sMAIC",0.00448057398545245,0.221792061575352,FALSE,FALSE,0.12072636162555
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, strong","STC",0.181816615299245,0.283522380205784,FALSE,FALSE,0.12072636162555
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, strong","G-computation",-0.085911795154543,0.172296184970473,FALSE,FALSE,0.12072636162555
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, strong","G-MAIC (means and SDs)",-0.0908108551663948,0.181271900744097,FALSE,FALSE,0.12072636162555
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, strong","G-MAIC",-0.0245949266773333,0.16068245452932,FALSE,FALSE,0.12072636162555
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Linear, strong","sG-MAIC",-0.0226013004453287,0.153736175814198,TRUE,FALSE,0.12072636162555
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, moderate","Unadjusted (Bucher)",-0.186572510691844,0.269116610224965,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, moderate","MAIC (means)",-0.222599427707383,0.29314911109485,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, moderate","MAIC (means and SDs)",0.00679300818411646,0.223292269431851,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, moderate","MAIC (all reported summaries)",0.0161952621031335,0.243611168753571,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, moderate","MAIC (means, quartiles and proportions)",-0.0574949069386673,0.222856725676261,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, moderate","sMAIC",-0.0629188412964327,0.222303119778934,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, moderate","STC",-0.43106285222441,0.476168176364568,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, moderate","G-computation",-0.147683360022109,0.224345630556813,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, moderate","G-MAIC (means and SDs)",-0.0191743367324919,0.1849097632876,TRUE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, moderate","G-MAIC",-0.028703134604621,0.193971885536583,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, moderate","sG-MAIC",-0.0745767726622401,0.186918482691022,FALSE,TRUE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, strong","Unadjusted (Bucher)",-0.287100627419757,0.349774384489446,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, strong","MAIC (means)",-0.363008037181767,0.41255973567361,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, strong","MAIC (means and SDs)",0.01924123112848,0.223168305116686,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, strong","MAIC (all reported summaries)",0.0261764474891064,0.24176223873392,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, strong","MAIC (means, quartiles and proportions)",-0.0991112119363025,0.241548622631658,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, strong","sMAIC",-0.107606648616399,0.243080476816675,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, strong","STC",-0.588789518783853,0.622578156924472,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, strong","G-computation",-0.29469515996708,0.341868552819962,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, strong","G-MAIC (means and SDs)",-0.0257813327718972,0.185894681263354,TRUE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, strong","G-MAIC",-0.0360306975122004,0.192735440334494,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","U-shaped, strong","sG-MAIC",-0.126168636581085,0.208881935814755,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, moderate","Unadjusted (Bucher)",-0.153850278865968,0.245983443096498,FALSE,FALSE,0.07416420022592
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, moderate","MAIC (means)",-0.12541241768143,0.224979619071864,FALSE,FALSE,0.07416420022592
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, moderate","MAIC (means and SDs)",0.0143244390217488,0.231080390736497,FALSE,FALSE,0.07416420022592
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, moderate","MAIC (all reported summaries)",0.0218576726238485,0.251442685159218,FALSE,FALSE,0.07416420022592
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, moderate","MAIC (means, quartiles and proportions)",0.00281173287371873,0.221700493513467,FALSE,FALSE,0.07416420022592
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, moderate","sMAIC",-0.00197617662330563,0.2170402440464,FALSE,FALSE,0.07416420022592
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, moderate","STC",-0.298666372266178,0.358196797428301,FALSE,FALSE,0.07416420022592
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, moderate","G-computation",-0.0709771720825134,0.175463932560669,FALSE,FALSE,0.07416420022592
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, moderate","G-MAIC (means and SDs)",-0.0493209012589458,0.175539197053573,FALSE,FALSE,0.07416420022592
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, moderate","G-MAIC",-0.0321531043424739,0.178348540830547,FALSE,FALSE,0.07416420022592
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, moderate","sG-MAIC",-0.0200711824513198,0.163349264966906,TRUE,FALSE,0.07416420022592
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, strong","Unadjusted (Bucher)",-0.226350390885249,0.298839693090302,FALSE,FALSE,0.19812250419912
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, strong","MAIC (means)",-0.178155377549058,0.260054240468428,FALSE,FALSE,0.19812250419912
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, strong","MAIC (means and SDs)",-0.00144646462065937,0.238997401456429,FALSE,FALSE,0.19812250419912
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, strong","MAIC (all reported summaries)",0.0224671306378025,0.258700834847781,FALSE,FALSE,0.19812250419912
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, strong","MAIC (means, quartiles and proportions)",-0.00273549678986858,0.230019715861311,FALSE,FALSE,0.19812250419912
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, strong","sMAIC",-0.00828653194737126,0.224778235451928,FALSE,FALSE,0.19812250419912
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, strong","STC",-0.352180849191962,0.404253036285685,FALSE,FALSE,0.19812250419912
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, strong","G-computation",-0.123900472942755,0.201142089331181,FALSE,FALSE,0.19812250419912
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, strong","G-MAIC (means and SDs)",-0.102230972967222,0.198662145131222,FALSE,FALSE,0.19812250419912
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, strong","G-MAIC",-0.0653375782095913,0.187070292709501,FALSE,FALSE,0.19812250419912
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Left-skewed","Threshold, strong","sG-MAIC",-0.0421538303292867,0.165811212488674,TRUE,FALSE,0.19812250419912
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, moderate","Unadjusted (Bucher)",-0.211326137040011,0.286672843783969,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, moderate","MAIC (means)",-0.041710478773358,0.194256384880851,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, moderate","MAIC (means and SDs)",-0.0417389735515067,0.196927563417576,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, moderate","MAIC (all reported summaries)",0.00481948265493318,0.221211035275257,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, moderate","MAIC (means, quartiles and proportions)",-0.0129548176981602,0.214159944242973,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, moderate","sMAIC",-0.0234216369438853,0.208218032599249,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, moderate","STC",-0.0394222550478693,0.204250262026779,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, moderate","G-computation",-0.0378226853284536,0.162006978060199,TRUE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, moderate","G-MAIC (means and SDs)",-0.0359909907821657,0.166132483713497,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, moderate","G-MAIC",-0.00790940185445994,0.166827378821671,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, moderate","sG-MAIC",-0.00452501654342918,0.162881436338978,FALSE,TRUE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, strong","Unadjusted (Bucher)",-0.301760502226176,0.354204204949211,FALSE,FALSE,0.0448484623805001
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, strong","MAIC (means)",-0.0508705794387168,0.184652253180842,FALSE,FALSE,0.0448484623805001
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, strong","MAIC (means and SDs)",-0.0463246269554774,0.186394399618979,FALSE,FALSE,0.0448484623805001
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, strong","MAIC (all reported summaries)",0.0328259718181689,0.216049961253385,FALSE,FALSE,0.0448484623805001
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, strong","MAIC (means, quartiles and proportions)",0.00720465908460691,0.204052363171205,FALSE,FALSE,0.0448484623805001
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, strong","sMAIC",-0.00986808561558082,0.195814589039646,FALSE,FALSE,0.0448484623805001
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, strong","STC",0.220611022770016,0.305224061805075,FALSE,FALSE,0.0448484623805001
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, strong","G-computation",-0.0494151503233946,0.154132772535292,FALSE,FALSE,0.0448484623805001
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, strong","G-MAIC (means and SDs)",-0.0509074786292254,0.154903056579702,FALSE,FALSE,0.0448484623805001
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, strong","G-MAIC",-0.00312290701879972,0.153090690037274,FALSE,FALSE,0.0448484623805001
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Linear, strong","sG-MAIC",-0.00246830313488124,0.147516867837588,TRUE,FALSE,0.0448484623805001
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, moderate","Unadjusted (Bucher)",-0.0410828632036828,0.187996922743453,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, moderate","MAIC (means)",-0.0183353028730107,0.181548850804259,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, moderate","MAIC (means and SDs)",-0.0167596644427248,0.181480007086853,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, moderate","MAIC (all reported summaries)",0.0236768709906533,0.213454304340714,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, moderate","MAIC (means, quartiles and proportions)",-0.00716767436128636,0.203325538797362,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, moderate","sMAIC",-0.0360905933124085,0.199565577585065,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, moderate","STC",-0.209514217866108,0.283550652788843,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, moderate","G-computation",-0.00562107513948664,0.159854972745503,FALSE,TRUE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, moderate","G-MAIC (means and SDs)",-0.0156041988016869,0.159020673333316,TRUE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, moderate","G-MAIC",0.0164966341085561,0.173867403554022,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, moderate","sG-MAIC",-0.0134326572314521,0.161605960398463,FALSE,TRUE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, strong","Unadjusted (Bucher)",-0.0801071968858445,0.206487882838722,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, strong","MAIC (means)",-0.0572479461045993,0.198177294995982,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, strong","MAIC (means and SDs)",-0.0563508681195923,0.197344643672799,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, strong","MAIC (all reported summaries)",0.0100889156089812,0.214958686353167,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, strong","MAIC (means, quartiles and proportions)",-0.0386925522532776,0.214984119331517,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, strong","sMAIC",-0.0825479156242766,0.220913656641773,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, strong","STC",-0.239468224397988,0.31008263339739,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, strong","G-computation",-0.0334753641188108,0.167372144243586,FALSE,TRUE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, strong","G-MAIC (means and SDs)",-0.0531232796388323,0.165699447304697,TRUE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, strong","G-MAIC",0.00100867856371044,0.174653047288697,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","U-shaped, strong","sG-MAIC",-0.0535413896868588,0.173389154892693,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, moderate","Unadjusted (Bucher)",-0.0822884424085914,0.20590999040868,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, moderate","MAIC (means)",-0.0199124566428054,0.185800994170272,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, moderate","MAIC (means and SDs)",-0.0173851544222507,0.186561971575538,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, moderate","MAIC (all reported summaries)",0.0155235756971668,0.218005437497624,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, moderate","MAIC (means, quartiles and proportions)",0.00311357819814677,0.211905705397203,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, moderate","sMAIC",-0.0101301863745449,0.205868942983475,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, moderate","STC",-0.191757834585069,0.278140512882048,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, moderate","G-computation",-0.0146364461315314,0.168023087768577,TRUE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, moderate","G-MAIC (means and SDs)",-0.0251804070028634,0.170740373303705,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, moderate","G-MAIC",-0.00159629009078581,0.178799002909086,FALSE,FALSE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, moderate","sG-MAIC",0.00423474795851896,0.171494533718912,FALSE,TRUE,0
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, strong","Unadjusted (Bucher)",-0.116448736414024,0.223725119085047,FALSE,FALSE,0.00640537247439998
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, strong","MAIC (means)",-0.0137662497152518,0.192327757453814,FALSE,FALSE,0.00640537247439998
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, strong","MAIC (means and SDs)",-0.0113725561832403,0.193200610977874,FALSE,FALSE,0.00640537247439998
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, strong","MAIC (all reported summaries)",0.0345424574442001,0.225263081740495,FALSE,FALSE,0.00640537247439998
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, strong","MAIC (means, quartiles and proportions)",0.0225125508469739,0.214697746232817,FALSE,FALSE,0.00640537247439998
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, strong","sMAIC",0.00912054560736973,0.21020739615931,FALSE,FALSE,0.00640537247439998
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, strong","STC",-0.172685549393332,0.267982859960051,FALSE,FALSE,0.00640537247439998
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, strong","G-computation",-0.00650854300312886,0.16618145622037,FALSE,TRUE,0.00640537247439998
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, strong","G-MAIC (means and SDs)",-0.0265498835306926,0.167304401895786,FALSE,TRUE,0.00640537247439998
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, strong","G-MAIC",0.00215531902861289,0.1735590098423,FALSE,FALSE,0.00640537247439998
+"Anchored comparison, time-to-event outcome (marginal log hazard ratio)","Truncated comparator","Threshold, strong","sG-MAIC",0.0143509574167386,0.165123776924786,TRUE,FALSE,0.00640537247439998
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, moderate","Unadjusted (Bucher)",2.81225620155372,2.91968122826698,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, moderate","MAIC (means)",0.0223860611709095,0.503218349702887,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, moderate","MAIC (means and SDs)",-0.1926115394795,0.580145159902036,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, moderate","MAIC (all reported summaries)",-0.246325385142688,0.606777970004787,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, moderate","MAIC (means, quartiles and proportions)",-0.0357137721421045,0.496752489685567,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, moderate","sMAIC",-0.0405282694570343,0.513564758360417,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, moderate","STC",0.215011786731497,0.762464492505689,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, moderate","G-computation",-0.00485537205901581,0.465951864667808,TRUE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, moderate","G-MAIC (means and SDs)",0.0278411180434178,0.489990184023592,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, moderate","G-MAIC",0.0493965092902517,0.508803117097827,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, moderate","sG-MAIC",0.00856352284604758,0.482581694242805,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, strong","Unadjusted (Bucher)",3.13031292251227,3.24070318568268,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, strong","MAIC (means)",-0.146066096419497,0.530211509831386,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, strong","MAIC (means and SDs)",-0.195674059594734,0.608283602170632,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, strong","MAIC (all reported summaries)",-0.261409273082131,0.629429420446789,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, strong","MAIC (means, quartiles and proportions)",-0.0581837148335757,0.488539036556225,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, strong","sMAIC",-0.0622643153065344,0.528620459902175,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, strong","STC",-1.26011080492955,1.59937643746482,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, strong","G-computation",-0.00549156753993913,0.437193063969042,TRUE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, strong","G-MAIC (means and SDs)",0.0449866511153703,0.458723557429559,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, strong","G-MAIC",0.059057220864851,0.462078804521089,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Linear, strong","sG-MAIC",0.0211462512185968,0.448000975154538,FALSE,TRUE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, moderate","Unadjusted (Bucher)",2.63261231172905,2.72519083319563,FALSE,FALSE,0.0790922571439401
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, moderate","MAIC (means)",0.71571421666866,0.919680118073728,FALSE,FALSE,0.0790922571439401
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, moderate","MAIC (means and SDs)",-0.10183387534492,0.593931866904185,FALSE,FALSE,0.0790922571439401
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, moderate","MAIC (all reported summaries)",-0.146917780538606,0.64144666821014,FALSE,FALSE,0.0790922571439401
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, moderate","MAIC (means, quartiles and proportions)",0.261261285369809,0.637588397926193,FALSE,FALSE,0.0790922571439401
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, moderate","sMAIC",0.238972360638621,0.609223019586837,FALSE,FALSE,0.0790922571439401
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, moderate","STC",1.13941336008012,1.2987859353835,FALSE,FALSE,0.0790922571439401
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, moderate","G-computation",0.382587065305802,0.68003195039744,FALSE,FALSE,0.0790922571439401
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, moderate","G-MAIC (means and SDs)",-0.326121527823052,0.644867403339889,FALSE,FALSE,0.0790922571439401
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, moderate","G-MAIC",-0.330341577734654,0.698343890371583,FALSE,FALSE,0.0790922571439401
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, moderate","sG-MAIC",-0.0528659594348143,0.550399526057353,TRUE,FALSE,0.0790922571439401
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, strong","Unadjusted (Bucher)",3.19789386123726,3.28459589893758,FALSE,FALSE,0.18898340046497
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, strong","MAIC (means)",1.25594272184524,1.40627211332257,FALSE,FALSE,0.18898340046497
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, strong","MAIC (means and SDs)",-0.103944356022093,0.68514884481798,FALSE,FALSE,0.18898340046497
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, strong","MAIC (all reported summaries)",-0.165780093864667,0.735120132275396,FALSE,FALSE,0.18898340046497
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, strong","MAIC (means, quartiles and proportions)",0.501655140190493,0.788426052955241,FALSE,FALSE,0.18898340046497
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, strong","sMAIC",0.46965648256669,0.772816700598656,FALSE,FALSE,0.18898340046497
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, strong","STC",1.59258758334848,1.73535191914206,FALSE,FALSE,0.18898340046497
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, strong","G-computation",0.810520149500319,1.02832204191689,FALSE,FALSE,0.18898340046497
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, strong","G-MAIC (means and SDs)",-0.624519137606452,0.855210193069487,FALSE,FALSE,0.18898340046497
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, strong","G-MAIC",-0.644181159005856,0.908639219424232,FALSE,FALSE,0.18898340046497
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","U-shaped, strong","sG-MAIC",-0.0645827650125562,0.576247611657187,TRUE,FALSE,0.18898340046497
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, moderate","Unadjusted (Bucher)",2.67037622466848,2.76623620187157,FALSE,FALSE,0.00669598128163007
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, moderate","MAIC (means)",0.498833262976104,0.762285874320876,FALSE,FALSE,0.00669598128163007
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, moderate","MAIC (means and SDs)",-0.140834957004201,0.609821831826344,FALSE,FALSE,0.00669598128163007
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, moderate","MAIC (all reported summaries)",-0.119344757823546,0.626429786162187,FALSE,FALSE,0.00669598128163007
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, moderate","MAIC (means, quartiles and proportions)",-0.0327174047312465,0.577743920354808,FALSE,TRUE,0.00669598128163007
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, moderate","sMAIC",-0.0271610132650958,0.569924762975345,TRUE,FALSE,0.00669598128163007
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, moderate","STC",0.95269472926702,1.15338789180925,FALSE,FALSE,0.00669598128163007
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, moderate","G-computation",0.169085999024985,0.573740968520167,FALSE,TRUE,0.00669598128163007
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, moderate","G-MAIC (means and SDs)",-0.179367048238851,0.577756062073475,FALSE,TRUE,0.00669598128163007
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, moderate","G-MAIC",-0.132446601656687,0.598720876061277,FALSE,FALSE,0.00669598128163007
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, moderate","sG-MAIC",-0.239632534792375,0.578777165422785,FALSE,TRUE,0.00669598128163007
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, strong","Unadjusted (Bucher)",3.12257574119154,3.2210484587645,FALSE,FALSE,0.0250805889048999
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, strong","MAIC (means)",0.779209148611056,0.995859836231299,FALSE,FALSE,0.0250805889048999
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, strong","MAIC (means and SDs)",-0.0875259951425576,0.671664604539638,FALSE,FALSE,0.0250805889048999
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, strong","MAIC (all reported summaries)",-0.0383996388336547,0.670228908036101,FALSE,FALSE,0.0250805889048999
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, strong","MAIC (means, quartiles and proportions)",0.0125354363374003,0.596478963347772,TRUE,FALSE,0.0250805889048999
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, strong","sMAIC",0.0238718212695027,0.603264276556374,FALSE,TRUE,0.0250805889048999
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, strong","STC",1.10969339676737,1.32445105994141,FALSE,FALSE,0.0250805889048999
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, strong","G-computation",0.184087643756151,0.611439007017919,FALSE,TRUE,0.0250805889048999
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, strong","G-MAIC (means and SDs)",-0.359181318937994,0.679892387076271,FALSE,FALSE,0.0250805889048999
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, strong","G-MAIC",-0.262809545069959,0.629198741041324,FALSE,FALSE,0.0250805889048999
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Normal","Threshold, strong","sG-MAIC",-0.4363612842535,0.68721066691412,FALSE,FALSE,0.0250805889048999
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, moderate","Unadjusted (Bucher)",2.70477708223777,2.81419896131199,FALSE,FALSE,0.12102073742621
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, moderate","MAIC (means)",-0.000848730850592926,0.570716178220822,FALSE,FALSE,0.12102073742621
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, moderate","MAIC (means and SDs)",0.0302661446620529,0.57611369687302,FALSE,FALSE,0.12102073742621
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, moderate","MAIC (all reported summaries)",-0.141761865998428,0.624123953459261,FALSE,FALSE,0.12102073742621
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, moderate","MAIC (means, quartiles and proportions)",-0.0937129720283991,0.565715773962583,FALSE,FALSE,0.12102073742621
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, moderate","sMAIC",-0.0215348588043079,0.582192977714279,FALSE,FALSE,0.12102073742621
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, moderate","STC",-0.326791019092068,0.867655463699585,FALSE,FALSE,0.12102073742621
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, moderate","G-computation",-0.534052030024797,0.729294315512315,FALSE,FALSE,0.12102073742621
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, moderate","G-MAIC (means and SDs)",-0.512898102665838,0.716019074125897,FALSE,FALSE,0.12102073742621
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, moderate","G-MAIC",0.047171171492879,0.528964920909972,FALSE,FALSE,0.12102073742621
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, moderate","sG-MAIC",0.0394960115106569,0.509104032750678,TRUE,FALSE,0.12102073742621
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, strong","Unadjusted (Bucher)",3.14922272932395,3.25326431227792,FALSE,FALSE,0.20173988386209
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, strong","MAIC (means)",0.0306928397160264,0.551506840321696,FALSE,FALSE,0.20173988386209
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, strong","MAIC (means and SDs)",0.173615083711059,0.567156328499081,FALSE,FALSE,0.20173988386209
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, strong","MAIC (all reported summaries)",-0.0887120194672562,0.578958863007485,FALSE,FALSE,0.20173988386209
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, strong","MAIC (means, quartiles and proportions)",-0.108123524291912,0.527035087341555,FALSE,FALSE,0.20173988386209
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, strong","sMAIC",-0.000130864151255292,0.537723528820419,FALSE,FALSE,0.20173988386209
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, strong","STC",-1.86393469788325,2.11787037572118,FALSE,FALSE,0.20173988386209
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, strong","G-computation",-0.657238997543082,0.79157777554556,FALSE,FALSE,0.20173988386209
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, strong","G-MAIC (means and SDs)",-0.627494383596161,0.776284549245538,FALSE,FALSE,0.20173988386209
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, strong","G-MAIC",0.0324804460883689,0.473408030031133,FALSE,FALSE,0.20173988386209
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Linear, strong","sG-MAIC",0.0138429551719012,0.458923638740601,TRUE,FALSE,0.20173988386209
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, moderate","Unadjusted (Bucher)",2.26010642351702,2.37387326718052,FALSE,FALSE,0.0264863086718901
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, moderate","MAIC (means)",0.126389655935616,0.58743574721863,FALSE,TRUE,0.0264863086718901
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, moderate","MAIC (means and SDs)",-0.17307992465309,0.615155615518512,FALSE,FALSE,0.0264863086718901
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, moderate","MAIC (all reported summaries)",-0.181110780434416,0.690249678313042,FALSE,FALSE,0.0264863086718901
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, moderate","MAIC (means, quartiles and proportions)",0.0898867170920317,0.612230588876609,FALSE,FALSE,0.0264863086718901
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, moderate","sMAIC",0.107936734292651,0.601973223859342,FALSE,FALSE,0.0264863086718901
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, moderate","STC",0.276747916502034,0.716983312280331,FALSE,FALSE,0.0264863086718901
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, moderate","G-computation",-0.547303455422897,0.784352038393076,FALSE,FALSE,0.0264863086718901
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, moderate","G-MAIC (means and SDs)",-0.887646833340723,1.04139377179532,FALSE,FALSE,0.0264863086718901
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, moderate","G-MAIC",-0.371716805635292,0.712595647756368,FALSE,FALSE,0.0264863086718901
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, moderate","sG-MAIC",-0.143310678498299,0.572278209904894,TRUE,FALSE,0.0264863086718901
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, strong","Unadjusted (Bucher)",2.51448696076777,2.62523008411832,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, strong","MAIC (means)",0.219751412775541,0.632429686040292,TRUE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, strong","MAIC (means and SDs)",-0.224925962454543,0.671228134681543,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, strong","MAIC (all reported summaries)",-0.18446002557982,0.707038988571236,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, strong","MAIC (means, quartiles and proportions)",0.184976247109237,0.638050415179089,FALSE,TRUE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, strong","sMAIC",0.214026528968905,0.651691832054039,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, strong","STC",0.0509863125506528,0.716727368183334,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, strong","G-computation",-0.878015158737495,1.05853257460907,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, strong","G-MAIC (means and SDs)",-1.37769862489077,1.48220949594866,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, strong","G-MAIC",-0.790312136342227,0.982814144358252,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","U-shaped, strong","sG-MAIC",-0.392427167380757,0.665874214820372,FALSE,TRUE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, moderate","Unadjusted (Bucher)",2.12044998972438,2.25979739978695,FALSE,FALSE,0.0467481625789601
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, moderate","MAIC (means)",-0.116825030673795,0.595625735655165,FALSE,FALSE,0.0467481625789601
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, moderate","MAIC (means and SDs)",-0.307477223834789,0.67854087351674,FALSE,FALSE,0.0467481625789601
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, moderate","MAIC (all reported summaries)",-0.05408363459717,0.647985072952468,FALSE,FALSE,0.0467481625789601
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, moderate","MAIC (means, quartiles and proportions)",-0.0504272404784188,0.609422014950368,FALSE,FALSE,0.0467481625789601
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, moderate","sMAIC",-0.0176390636528739,0.597400620040673,FALSE,FALSE,0.0467481625789601
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, moderate","STC",0.108135454161844,0.682595797620766,FALSE,FALSE,0.0467481625789601
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, moderate","G-computation",-0.672417164483614,0.879781533433139,FALSE,FALSE,0.0467481625789601
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, moderate","G-MAIC (means and SDs)",-0.824451483687258,0.9987261200303,FALSE,FALSE,0.0467481625789601
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, moderate","G-MAIC",-0.0218484742582271,0.60876285476606,FALSE,FALSE,0.0467481625789601
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, moderate","sG-MAIC",-0.10379327537487,0.569024868586991,TRUE,FALSE,0.0467481625789601
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, strong","Unadjusted (Bucher)",2.34769816075352,2.47089447089141,FALSE,FALSE,0.0668984223791
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, strong","MAIC (means)",-0.14090296135501,0.61191399233126,FALSE,FALSE,0.0668984223791
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, strong","MAIC (means and SDs)",-0.420615721597225,0.757700409006928,FALSE,FALSE,0.0668984223791
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, strong","MAIC (all reported summaries)",0.027379868826274,0.634020203729513,FALSE,FALSE,0.0668984223791
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, strong","MAIC (means, quartiles and proportions)",-0.0252072662614362,0.583502764018827,FALSE,TRUE,0.0668984223791
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, strong","sMAIC",0.0334720109345205,0.583902833676614,FALSE,TRUE,0.0668984223791
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, strong","STC",-0.153519932927054,0.768557026843466,FALSE,FALSE,0.0668984223791
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, strong","G-computation",-1.04165440382857,1.17864072373327,FALSE,FALSE,0.0668984223791
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, strong","G-MAIC (means and SDs)",-1.25396450814415,1.37092943224406,FALSE,FALSE,0.0668984223791
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, strong","G-MAIC",-0.15053367783064,0.573544753179728,TRUE,FALSE,0.0668984223791
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Right-skewed","Threshold, strong","sG-MAIC",-0.305667436136988,0.605898678862324,FALSE,FALSE,0.0668984223791
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, moderate","Unadjusted (Bucher)",3.05605263393914,3.1544311771121,FALSE,FALSE,0.21284163723137
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, moderate","MAIC (means)",0.279858994457287,0.582906942528537,FALSE,FALSE,0.21284163723137
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, moderate","MAIC (means and SDs)",-0.443334072999226,0.702774094922029,FALSE,FALSE,0.21284163723137
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, moderate","MAIC (all reported summaries)",-0.452560537722952,0.716962099009058,FALSE,FALSE,0.21284163723137
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, moderate","MAIC (means, quartiles and proportions)",-0.0908918735379108,0.513899090262275,FALSE,FALSE,0.21284163723137
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, moderate","sMAIC",-0.0567376671597358,0.518600690796441,FALSE,FALSE,0.21284163723137
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, moderate","STC",0.709344207124198,1.00745892222893,FALSE,FALSE,0.21284163723137
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, moderate","G-computation",0.50257305860168,0.681560580449172,FALSE,FALSE,0.21284163723137
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, moderate","G-MAIC (means and SDs)",0.553890596968997,0.730769051462485,FALSE,FALSE,0.21284163723137
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, moderate","G-MAIC",0.0116562658101573,0.525496008142267,FALSE,FALSE,0.21284163723137
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, moderate","sG-MAIC",-0.0120752605216081,0.480612575157936,TRUE,FALSE,0.21284163723137
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, strong","Unadjusted (Bucher)",3.39725845701799,3.49612795944495,FALSE,FALSE,0.23005422542559
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, strong","MAIC (means)",0.135159396954838,0.528585300221081,FALSE,FALSE,0.23005422542559
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, strong","MAIC (means and SDs)",-0.502191579373366,0.778800074633771,FALSE,FALSE,0.23005422542559
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, strong","MAIC (all reported summaries)",-0.471874863558506,0.731288721697936,FALSE,FALSE,0.23005422542559
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, strong","MAIC (means, quartiles and proportions)",-0.0907048018047958,0.506471272159731,FALSE,FALSE,0.23005422542559
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, strong","sMAIC",-0.0510331516221558,0.540272666794092,FALSE,FALSE,0.23005422542559
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, strong","STC",-0.411201350617144,1.08008907845088,FALSE,FALSE,0.23005422542559
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, strong","G-computation",0.760433260218777,0.873507107990245,FALSE,FALSE,0.23005422542559
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, strong","G-MAIC (means and SDs)",0.831122606400069,0.942879954775723,FALSE,FALSE,0.23005422542559
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, strong","G-MAIC",0.0989064908096662,0.467527950953567,FALSE,FALSE,0.23005422542559
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Linear, strong","sG-MAIC",0.0643582181055431,0.429725201779779,TRUE,FALSE,0.23005422542559
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, moderate","Unadjusted (Bucher)",2.89397328758352,2.98104078933405,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, moderate","MAIC (means)",1.2533050433588,1.41152512148242,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, moderate","MAIC (means and SDs)",-0.115632472894256,0.697113929969965,FALSE,TRUE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, moderate","MAIC (all reported summaries)",-0.14805574075552,0.762788232008192,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, moderate","MAIC (means, quartiles and proportions)",0.311272233030374,0.768360885394305,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, moderate","sMAIC",0.347859444796091,0.760025961340222,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, moderate","STC",1.72112216626585,1.84386560695856,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, moderate","G-computation",1.07209509182691,1.24805570187397,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, moderate","G-MAIC (means and SDs)",-0.0690493360404237,0.686605927325432,TRUE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, moderate","G-MAIC",-0.31569583748275,0.822082465649503,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, moderate","sG-MAIC",0.0184914775054095,0.690704017416663,FALSE,TRUE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, strong","Unadjusted (Bucher)",3.66857171987598,3.73219764664364,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, strong","MAIC (means)",2.29479571867868,2.3882569886866,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, strong","MAIC (means and SDs)",-0.168184509273642,0.666029348864893,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, strong","MAIC (all reported summaries)",-0.236456833840283,0.71981582298358,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, strong","MAIC (means, quartiles and proportions)",0.639922461052508,0.894291351995029,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, strong","sMAIC",0.697533461750766,0.927990143465591,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, strong","STC",2.7787759672422,2.85745008888239,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, strong","G-computation",2.34232553977772,2.43929593842272,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, strong","G-MAIC (means and SDs)",-0.231805846889164,0.620105446596399,TRUE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, strong","G-MAIC",-0.460907042553411,0.791371998843266,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","U-shaped, strong","sG-MAIC",0.24141109414689,0.638769745522995,FALSE,TRUE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, moderate","Unadjusted (Bucher)",2.85701513251633,2.94802745758837,FALSE,FALSE,0.0422585755352101
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, moderate","MAIC (means)",0.866018064435202,1.05772322623782,FALSE,FALSE,0.0422585755352101
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, moderate","MAIC (means and SDs)",-0.143016637572774,0.62478961046857,FALSE,FALSE,0.0422585755352101
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, moderate","MAIC (all reported summaries)",-0.223403619006204,0.681117076631424,FALSE,FALSE,0.0422585755352101
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, moderate","MAIC (means, quartiles and proportions)",-0.0580415713770885,0.59984283601574,FALSE,TRUE,0.0422585755352101
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, moderate","sMAIC",-0.0340380001707651,0.596782804885824,TRUE,FALSE,0.0422585755352101
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, moderate","STC",1.36514935974753,1.51006006536736,FALSE,FALSE,0.0422585755352101
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, moderate","G-computation",0.606398304322918,0.831056409702122,FALSE,FALSE,0.0422585755352101
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, moderate","G-MAIC (means and SDs)",0.209194039134869,0.622001996124207,FALSE,TRUE,0.0422585755352101
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, moderate","G-MAIC",-0.204746144453226,0.661375284474294,FALSE,FALSE,0.0422585755352101
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, moderate","sG-MAIC",-0.333099307539486,0.654400167192173,FALSE,FALSE,0.0422585755352101
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, strong","Unadjusted (Bucher)",3.33047812342312,3.42270339661659,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, strong","MAIC (means)",1.23121591770731,1.39462506583453,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, strong","MAIC (means and SDs)",-0.0476990786140114,0.644718932550299,FALSE,TRUE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, strong","MAIC (all reported summaries)",-0.199333742897115,0.736899748337418,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, strong","MAIC (means, quartiles and proportions)",-0.0597655675576925,0.649729740804622,FALSE,TRUE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, strong","sMAIC",-0.0172146111312417,0.649412027683976,FALSE,TRUE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, strong","STC",1.63587508844141,1.7809590900381,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, strong","G-computation",0.783349268005792,0.994710584994531,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, strong","G-MAIC (means and SDs)",0.140389881640866,0.630529677308541,TRUE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, strong","G-MAIC",-0.372272845631984,0.738719171699347,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Left-skewed","Threshold, strong","sG-MAIC",-0.575012487237368,0.810492570020172,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, moderate","Unadjusted (Bucher)",3.01810539129975,3.11486119935565,FALSE,FALSE,0.0840711592210199
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, moderate","MAIC (means)",0.243292080676918,0.56251708274179,FALSE,FALSE,0.0840711592210199
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, moderate","MAIC (means and SDs)",0.213937334812861,0.554012143038002,FALSE,FALSE,0.0840711592210199
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, moderate","MAIC (all reported summaries)",-0.25515006870996,0.616300704491015,FALSE,FALSE,0.0840711592210199
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, moderate","MAIC (means, quartiles and proportions)",-0.103733382957191,0.565189469524501,FALSE,FALSE,0.0840711592210199
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, moderate","sMAIC",0.00268367754098975,0.546745537195375,FALSE,FALSE,0.0840711592210199
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, moderate","STC",0.423355884366601,0.798584167769909,FALSE,FALSE,0.0840711592210199
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, moderate","G-computation",0.261258475723389,0.549213454571255,FALSE,FALSE,0.0840711592210199
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, moderate","G-MAIC (means and SDs)",0.27579902198765,0.558849282751536,FALSE,FALSE,0.0840711592210199
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, moderate","G-MAIC",0.0163571496056713,0.53230827977827,FALSE,FALSE,0.0840711592210199
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, moderate","sG-MAIC",0.00920651716793595,0.506621221217529,TRUE,FALSE,0.0840711592210199
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, strong","Unadjusted (Bucher)",3.63952490074679,3.73390381058257,FALSE,FALSE,0.31882650798578
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, strong","MAIC (means)",0.398840341797627,0.620038549232887,FALSE,FALSE,0.31882650798578
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, strong","MAIC (means and SDs)",0.359778141814474,0.591896120925371,FALSE,FALSE,0.31882650798578
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, strong","MAIC (all reported summaries)",-0.322864108718151,0.598383156294047,FALSE,FALSE,0.31882650798578
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, strong","MAIC (means, quartiles and proportions)",-0.143699292672985,0.516240896113498,FALSE,FALSE,0.31882650798578
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, strong","sMAIC",-0.0306256196715567,0.490441007160968,FALSE,FALSE,0.31882650798578
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, strong","STC",-0.710980978915909,1.09052072813336,FALSE,FALSE,0.31882650798578
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, strong","G-computation",0.390819427112482,0.579919923863146,FALSE,FALSE,0.31882650798578
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, strong","G-MAIC (means and SDs)",0.401306627898768,0.599573624070566,FALSE,FALSE,0.31882650798578
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, strong","G-MAIC",0.0473830520622081,0.454041150615806,FALSE,FALSE,0.31882650798578
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Linear, strong","sG-MAIC",0.0253296730105517,0.439724194465007,TRUE,FALSE,0.31882650798578
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, moderate","Unadjusted (Bucher)",2.09211035263646,2.21485744384648,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, moderate","MAIC (means)",0.154774539162603,0.634421362079078,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, moderate","MAIC (means and SDs)",0.150783338195271,0.620322207360824,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, moderate","MAIC (all reported summaries)",-0.0811073842694169,0.707796186114963,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, moderate","MAIC (means, quartiles and proportions)",0.0939900245294879,0.697969660453451,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, moderate","sMAIC",0.239461308028613,0.715078892723502,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, moderate","STC",0.601328333183105,0.892931551208969,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, moderate","G-computation",-0.0141783662222249,0.605366140563286,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, moderate","G-MAIC (means and SDs)",-0.0704905525177542,0.583791503103527,TRUE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, moderate","G-MAIC",-0.117238582105933,0.708894933492875,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, moderate","sG-MAIC",0.0533912949844034,0.676123294652081,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, strong","Unadjusted (Bucher)",2.21674278559714,2.33144381700619,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, strong","MAIC (means)",0.290736346702165,0.680186121650437,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, strong","MAIC (means and SDs)",0.273412046943539,0.648047314391871,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, strong","MAIC (all reported summaries)",-0.124614488995065,0.697536557512461,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, strong","MAIC (means, quartiles and proportions)",0.147375539137325,0.687630780450748,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, strong","sMAIC",0.406344074631948,0.766750382131337,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, strong","STC",0.600572707828416,0.898609474135282,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, strong","G-computation",-0.0113155488223869,0.6278240033914,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, strong","G-MAIC (means and SDs)",-0.190732622166087,0.579884821473694,TRUE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, strong","G-MAIC",-0.280204402957438,0.735590227148746,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","U-shaped, strong","sG-MAIC",0.0893928416040809,0.653547683093761,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, moderate","Unadjusted (Bucher)",2.29890870466814,2.4095492601288,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, moderate","MAIC (means)",0.139644687404747,0.601219843344019,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, moderate","MAIC (means and SDs)",0.119226338502645,0.592729945233962,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, moderate","MAIC (all reported summaries)",-0.171415861548321,0.691836072102072,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, moderate","MAIC (means, quartiles and proportions)",-0.104060333132905,0.660441277121516,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, moderate","sMAIC",-0.05089050758244,0.637250453206888,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, moderate","STC",0.603987612352654,0.880887930361275,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, moderate","G-computation",-0.0383132984283652,0.56881403992842,FALSE,TRUE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, moderate","G-MAIC (means and SDs)",-0.0737650156313061,0.558131938571105,TRUE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, moderate","G-MAIC",-0.206960201270935,0.678343623906324,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, moderate","sG-MAIC",-0.272589395718692,0.664283144606679,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, strong","Unadjusted (Bucher)",2.47095783003297,2.58847244320017,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, strong","MAIC (means)",0.107978438090285,0.61954330336046,TRUE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, strong","MAIC (means and SDs)",0.0900011418426348,0.621378143437725,FALSE,TRUE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, strong","MAIC (all reported summaries)",-0.300846467480698,0.736882466755643,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, strong","MAIC (means, quartiles and proportions)",-0.231593711430803,0.691090661072627,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, strong","sMAIC",-0.184201789543612,0.65465290562263,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, strong","STC",0.428993004076133,0.799325308680948,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, strong","G-computation",-0.33219742873049,0.673234140750946,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, strong","G-MAIC (means and SDs)",-0.401588534805477,0.691831538489736,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, strong","G-MAIC",-0.555346275548334,0.812792449851425,FALSE,FALSE,0
+"Unanchored comparison, time-to-event outcome (difference in 24-month RMST, months)","Truncated comparator","Threshold, strong","sG-MAIC",-0.674148034942177,0.879658271701488,FALSE,FALSE,0

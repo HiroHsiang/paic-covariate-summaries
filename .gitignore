@@ -1,0 +1,12 @@
+# 逐次重复的估计值不进仓库（由 sims/ 重新生成）
+output/*/
+!output/settings/
+!output/poplimit/
+!output/summary/
+!output/figures/
+output/**/progress.log
+output/**/*.log
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj

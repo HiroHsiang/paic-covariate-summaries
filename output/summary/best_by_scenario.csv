@@ -1,0 +1,97 @@
+"dgm_id","D","shape","em_mult","endpoint","anchored","best","best_rmse","indist","indist_ratio","second","second_ratio","best_msd","best_msd_ratio","ratio_means"
+"D1_linear_em1_binary_anch","D1","linear",1,"binary",TRUE,"G-computation",0.315263509289185,"","","sG-MAIC",1.03961691452224,"G-computation",1,1.12924613868984
+"D1_linear_em1_binary_unanch","D1","linear",1,"binary",FALSE,"G-computation",0.134098100268663,"","","sG-MAIC",1.03482043812415,"G-computation",1,1.15192109289505
+"D1_linear_em1_tte_anch","D1","linear",1,"tte",TRUE,"G-computation",0.147485012039667,"sG-MAIC","1.014","sG-MAIC",1.01428189261583,"G-computation",1,1.27393319926988
+"D1_linear_em1_tte_unanch","D1","linear",1,"tte",FALSE,"G-computation",0.465951864667808,"","","sG-MAIC",1.03569001614974,"G-computation",1,1.0799792593633
+"D1_linear_em2_binary_anch","D1","linear",2,"binary",TRUE,"G-computation",0.303575849347553,"","","G-MAIC (means and SDs)",1.0373144293996,"G-computation",1,1.16177789568058
+"D1_linear_em2_binary_unanch","D1","linear",2,"binary",FALSE,"G-computation",0.117096331617606,"sG-MAIC","1.023","sG-MAIC",1.02282516361658,"G-computation",1,1.09563774905727
+"D1_linear_em2_tte_anch","D1","linear",2,"tte",TRUE,"G-computation",0.15331166460752,"sG-MAIC","1.005","sG-MAIC",1.00466029341677,"G-computation",1,1.23713571299153
+"D1_linear_em2_tte_unanch","D1","linear",2,"tte",FALSE,"G-computation",0.437193063969042,"sG-MAIC","1.025","sG-MAIC",1.02472114055831,"G-computation",1,1.21276285817044
+"D1_quad_em1_binary_anch","D1","quad",1,"binary",TRUE,"G-computation",0.377688749394354,"sG-MAIC; G-MAIC (means and SDs)","1.008; 1.015","sG-MAIC",1.00781330736907,"G-computation",1,1.10211972993502
+"D1_quad_em1_binary_unanch","D1","quad",1,"binary",FALSE,"G-MAIC (means and SDs)",0.178161087830268,"MAIC (means and SDs)","1.013","MAIC (means and SDs)",1.01344402796953,"G-MAIC (means and SDs)",1,1.35575721885577
+"D1_quad_em1_tte_anch","D1","quad",1,"tte",TRUE,"G-MAIC (means and SDs)",0.168502069541203,"sG-MAIC","1.008","sG-MAIC",1.00798464966873,"G-MAIC (means and SDs)",1,1.33707932302888
+"D1_quad_em1_tte_unanch","D1","quad",1,"tte",FALSE,"sG-MAIC",0.550399526057353,"","","MAIC (means and SDs)",1.07909225714394,"MAIC (means and SDs)",1.07909225714394,1.67093188590045
+"D1_quad_em2_binary_anch","D1","quad",2,"binary",TRUE,"G-MAIC (means and SDs)",0.359950074857539,"","","sG-MAIC",1.02247543952095,"G-MAIC (means and SDs)",1,1.25250336313358
+"D1_quad_em2_binary_unanch","D1","quad",2,"binary",FALSE,"G-MAIC (means and SDs)",0.16458148800628,"","","MAIC (means and SDs)",1.03433676663324,"G-MAIC (means and SDs)",1,1.81707370979529
+"D1_quad_em2_tte_anch","D1","quad",2,"tte",TRUE,"G-MAIC (means and SDs)",0.164029826483083,"","","sG-MAIC",1.04790587693415,"G-MAIC (means and SDs)",1,1.6875929410114
+"D1_quad_em2_tte_unanch","D1","quad",2,"tte",FALSE,"sG-MAIC",0.576247611657187,"","","MAIC (means and SDs)",1.18898340046497,"MAIC (means and SDs)",1.18898340046497,2.44039556064863
+"D1_threshold_em1_binary_anch","D1","threshold",1,"binary",TRUE,"G-computation",0.352261313036648,"","","sG-MAIC",1.02744207681061,"G-computation",1,1.13894025832266
+"D1_threshold_em1_binary_unanch","D1","threshold",1,"binary",FALSE,"sG-MAIC",0.159858713201965,"G-MAIC (means and SDs)","1.017","sMAIC",1.01346477351648,"G-MAIC (means and SDs)",1.01698209974256,1.29810513748907
+"D1_threshold_em1_tte_anch","D1","threshold",1,"tte",TRUE,"sG-MAIC",0.165642857988747,"G-MAIC (means and SDs)","1.011","G-MAIC (means and SDs)",1.0109551562659,"G-MAIC (means and SDs)",1.0109551562659,1.26718179941352
+"D1_threshold_em1_tte_unanch","D1","threshold",1,"tte",FALSE,"sMAIC",0.569924762975345,"G-computation; MAIC (means, quartiles and proportions); G-MAIC (means and SDs); sG-MAIC","1.007; 1.014; 1.014; 1.016","G-computation",1.00669598128163,"G-computation",1.00669598128163,1.3375201848421
+"D1_threshold_em2_binary_anch","D1","threshold",2,"binary",TRUE,"sG-MAIC",0.329721661547696,"","","G-MAIC (means and SDs)",1.01919935043225,"G-MAIC (means and SDs)",1.01919935043225,1.21075963184785
+"D1_threshold_em2_binary_unanch","D1","threshold",2,"binary",FALSE,"sG-MAIC",0.140853664145257,"","","sMAIC",1.01615182282045,"G-MAIC (means and SDs)",1.0818519257443,1.75534987968178
+"D1_threshold_em2_tte_anch","D1","threshold",2,"tte",TRUE,"sG-MAIC",0.15028241200608,"","","G-MAIC (means and SDs)",1.03028191089654,"G-MAIC (means and SDs)",1.03028191089654,1.45745457096133
+"D1_threshold_em2_tte_unanch","D1","threshold",2,"tte",FALSE,"MAIC (means, quartiles and proportions)",0.596478963347772,"sMAIC; G-computation","1.011; 1.025","sMAIC",1.01137561192522,"G-computation",1.0250805889049,1.66956405409837
+"D2_linear_em1_binary_anch","D2","linear",1,"binary",TRUE,"sG-MAIC",0.336952460771213,"G-computation","1.004","G-computation",1.0039097032245,"G-computation",1.0039097032245,1.10919286374777
+"D2_linear_em1_binary_unanch","D2","linear",1,"binary",FALSE,"MAIC (means)",0.141623870831965,"MAIC (means and SDs)","1.015","MAIC (means and SDs)",1.01454665859338,"MAIC (means)",1,1
+"D2_linear_em1_tte_anch","D2","linear",1,"tte",TRUE,"sG-MAIC",0.158675133001343,"","","G-computation",1.02805425012748,"G-computation",1.02805425012748,1.23581943952683
+"D2_linear_em1_tte_unanch","D2","linear",1,"tte",FALSE,"sG-MAIC",0.509104032750678,"","","G-MAIC",1.039011453223,"MAIC (means)",1.12102073742621,1.12102073742621
+"D2_linear_em2_binary_anch","D2","linear",2,"binary",TRUE,"sG-MAIC",0.332829425478336,"","","G-computation",1.01922817483403,"G-computation",1.01922817483403,1.08671221203355
+"D2_linear_em2_binary_unanch","D2","linear",2,"binary",FALSE,"sG-MAIC",0.125566005886971,"","","MAIC (means)",1.03255617756423,"MAIC (means)",1.03255617756423,1.03255617756423
+"D2_linear_em2_tte_anch","D2","linear",2,"tte",TRUE,"sG-MAIC",0.150664804883688,"","","G-MAIC",1.0343657130429,"G-MAIC (means and SDs)",1.07917902259805,1.26362359071986
+"D2_linear_em2_tte_unanch","D2","linear",2,"tte",FALSE,"sG-MAIC",0.458923638740601,"","","G-MAIC",1.03156165877679,"MAIC (means)",1.20173988386209,1.20173988386209
+"D2_quad_em1_binary_anch","D2","quad",1,"binary",TRUE,"G-computation",0.343272367574069,"","","G-MAIC (means and SDs)",1.02360713474272,"G-computation",1,1.11897974752647
+"D2_quad_em1_binary_unanch","D2","quad",1,"binary",FALSE,"MAIC (means and SDs)",0.161205438114578,"G-computation; MAIC (means); sMAIC","1.003; 1.024; 1.033","G-computation",1.00289463545559,"MAIC (means and SDs)",1,1.02388166160232
+"D2_quad_em1_tte_anch","D2","quad",1,"tte",TRUE,"G-computation",0.16157499842795,"G-MAIC (means and SDs)","1.008","G-MAIC (means and SDs)",1.00761002489561,"G-computation",1,1.26602766920945
+"D2_quad_em1_tte_unanch","D2","quad",1,"tte",FALSE,"sG-MAIC",0.572278209904894,"MAIC (means)","1.026","MAIC (means)",1.02648630867189,"MAIC (means)",1.02648630867189,1.02648630867189
+"D2_quad_em2_binary_anch","D2","quad",2,"binary",TRUE,"G-computation",0.327449142280197,"","","sG-MAIC",1.02223585292799,"G-computation",1,1.09567194745009
+"D2_quad_em2_binary_unanch","D2","quad",2,"binary",FALSE,"G-computation",0.152409368031964,"sMAIC; sG-MAIC","1.017; 1.036","sMAIC",1.01653438151896,"G-computation",1,1.03690276819133
+"D2_quad_em2_tte_anch","D2","quad",2,"tte",TRUE,"G-computation",0.164140360539103,"sG-MAIC; G-MAIC","1.023; 1.024","sG-MAIC",1.02290404601575,"G-computation",1,1.23101900236156
+"D2_quad_em2_tte_unanch","D2","quad",2,"tte",FALSE,"MAIC (means)",0.632429686040292,"MAIC (means, quartiles and proportions); sG-MAIC","1.009; 1.053","MAIC (means, quartiles and proportions)",1.0088875162929,"MAIC (means)",1,1
+"D2_threshold_em1_binary_anch","D2","threshold",1,"binary",TRUE,"G-computation",0.345216822587102,"sG-MAIC","1.014","sG-MAIC",1.01444829187649,"G-computation",1,1.1096981754348
+"D2_threshold_em1_binary_unanch","D2","threshold",1,"binary",FALSE,"MAIC (means)",0.162020987915144,"sMAIC","1.018","sMAIC",1.0178058675424,"MAIC (means)",1,1
+"D2_threshold_em1_tte_anch","D2","threshold",1,"tte",TRUE,"sG-MAIC",0.165780413013064,"G-computation","1.002","G-computation",1.00204001196318,"G-computation",1.00204001196318,1.13672109293758
+"D2_threshold_em1_tte_unanch","D2","threshold",1,"tte",FALSE,"sG-MAIC",0.569024868586991,"","","MAIC (means)",1.04674816257896,"MAIC (means)",1.04674816257896,1.04674816257896
+"D2_threshold_em2_binary_anch","D2","threshold",2,"binary",TRUE,"sG-MAIC",0.334336778864924,"G-computation","1.010","G-computation",1.00982602848788,"G-computation",1.00982602848788,1.12761735715824
+"D2_threshold_em2_binary_unanch","D2","threshold",2,"binary",FALSE,"MAIC (means)",0.146479838000393,"sMAIC; sG-MAIC; MAIC (means, quartiles and proportions)","1.007; 1.018; 1.030","sMAIC",1.00670656604091,"MAIC (means)",1,1
+"D2_threshold_em2_tte_anch","D2","threshold",2,"tte",TRUE,"sG-MAIC",0.16438232170683,"","","G-MAIC",1.08462595243367,"G-computation",1.09686882194274,1.20283153961419
+"D2_threshold_em2_tte_unanch","D2","threshold",2,"tte",FALSE,"G-MAIC",0.573544753179728,"MAIC (means, quartiles and proportions); sMAIC","1.017; 1.018","MAIC (means, quartiles and proportions)",1.01736222114123,"MAIC (means)",1.0668984223791,1.0668984223791
+"D3_linear_em1_binary_anch","D3","linear",1,"binary",TRUE,"G-computation",0.321096870828055,"","","G-MAIC (means and SDs)",1.07542725418313,"G-computation",1,1.1497703512121
+"D3_linear_em1_binary_unanch","D3","linear",1,"binary",FALSE,"G-computation",0.148968570873803,"","","G-MAIC (means and SDs)",1.05014375846256,"G-computation",1,1.30018092305709
+"D3_linear_em1_tte_anch","D3","linear",1,"tte",TRUE,"sG-MAIC",0.157771692303806,"","","G-computation",1.02457951001208,"G-computation",1.02457951001208,1.23314305112836
+"D3_linear_em1_tte_unanch","D3","linear",1,"tte",FALSE,"sG-MAIC",0.480612575157936,"","","MAIC (means, quartiles and proportions)",1.0692585188671,"MAIC (means)",1.21284163723137,1.21284163723137
+"D3_linear_em2_binary_anch","D3","linear",2,"binary",TRUE,"G-computation",0.294854820738547,"","","G-MAIC (means and SDs)",1.07531489363186,"G-computation",1,1.1552231704253
+"D3_linear_em2_binary_unanch","D3","linear",2,"binary",FALSE,"sG-MAIC",0.123806388044676,"","","MAIC (means, quartiles and proportions)",1.07828349426862,"G-computation",1.27150437112209,1.32142271733862
+"D3_linear_em2_tte_anch","D3","linear",2,"tte",TRUE,"sG-MAIC",0.153736175814198,"","","G-MAIC",1.04518311112094,"G-computation",1.12072636162555,1.2177792886601
+"D3_linear_em2_tte_unanch","D3","linear",2,"tte",FALSE,"sG-MAIC",0.429725201779779,"","","G-MAIC",1.08796958851196,"MAIC (means)",1.23005422542559,1.23005422542559
+"D3_quad_em1_binary_anch","D3","quad",1,"binary",TRUE,"G-MAIC (means and SDs)",0.384049524846385,"G-computation","1.022","G-computation",1.0221422234787,"G-MAIC (means and SDs)",1,1.13001668075964
+"D3_quad_em1_binary_unanch","D3","quad",1,"binary",FALSE,"G-MAIC (means and SDs)",0.19271517208279,"","","MAIC (means and SDs)",1.03288937652601,"G-MAIC (means and SDs)",1,1.62515978099062
+"D3_quad_em1_tte_anch","D3","quad",1,"tte",TRUE,"G-MAIC (means and SDs)",0.1849097632876,"sG-MAIC","1.011","sG-MAIC",1.01086324144117,"G-MAIC (means and SDs)",1,1.58536307592856
+"D3_quad_em1_tte_unanch","D3","quad",1,"tte",FALSE,"G-MAIC (means and SDs)",0.686605927325432,"sG-MAIC; MAIC (means and SDs)","1.006; 1.015","sG-MAIC",1.00596862032228,"G-MAIC (means and SDs)",1,2.05580095555074
+"D3_quad_em2_binary_anch","D3","quad",2,"binary",TRUE,"G-MAIC (means and SDs)",0.402740112354413,"","","sG-MAIC",1.08072289919039,"G-MAIC (means and SDs)",1,1.37580892879848
+"D3_quad_em2_binary_unanch","D3","quad",2,"binary",FALSE,"G-MAIC (means and SDs)",0.182888226531412,"MAIC (means and SDs)","1.005","MAIC (means and SDs)",1.00487781684593,"G-MAIC (means and SDs)",1,2.62553415883451
+"D3_quad_em2_tte_anch","D3","quad",2,"tte",TRUE,"G-MAIC (means and SDs)",0.185894681263354,"","","G-MAIC",1.03679911132825,"G-MAIC (means and SDs)",1,2.21931973991845
+"D3_quad_em2_tte_unanch","D3","quad",2,"tte",FALSE,"G-MAIC (means and SDs)",0.620105446596399,"sG-MAIC","1.030","sG-MAIC",1.03009858892393,"G-MAIC (means and SDs)",1,3.85137237835135
+"D3_threshold_em1_binary_anch","D3","threshold",1,"binary",TRUE,"G-computation",0.347032168397662,"","","G-MAIC (means and SDs)",1.03844381200032,"G-computation",1,1.16399657592238
+"D3_threshold_em1_binary_unanch","D3","threshold",1,"binary",FALSE,"G-MAIC (means and SDs)",0.182074385928888,"sG-MAIC; MAIC (means and SDs); sMAIC","1.006; 1.025; 1.026","sG-MAIC",1.00591049462339,"G-MAIC (means and SDs)",1,1.54856933824686
+"D3_threshold_em1_tte_anch","D3","threshold",1,"tte",TRUE,"sG-MAIC",0.163349264966906,"","","G-computation",1.07416420022592,"G-computation",1.07416420022592,1.37729189731857
+"D3_threshold_em1_tte_unanch","D3","threshold",1,"tte",FALSE,"sMAIC",0.596782804885824,"MAIC (means, quartiles and proportions); G-MAIC (means and SDs)","1.005; 1.042","MAIC (means, quartiles and proportions)",1.00512754574171,"G-MAIC (means and SDs)",1.04225857553521,1.77237550676444
+"D3_threshold_em2_binary_anch","D3","threshold",2,"binary",TRUE,"G-MAIC (means and SDs)",0.358573986942959,"","","sG-MAIC",1.02912921014854,"G-MAIC (means and SDs)",1,1.23705240668023
+"D3_threshold_em2_binary_unanch","D3","threshold",2,"binary",FALSE,"sG-MAIC",0.155383923890965,"","","sMAIC",1.04699006798841,"MAIC (means and SDs)",1.07189188107605,2.16299431757443
+"D3_threshold_em2_tte_anch","D3","threshold",2,"tte",TRUE,"sG-MAIC",0.165811212488674,"","","G-MAIC",1.12821256115161,"G-MAIC (means and SDs)",1.19812250419912,1.56837548296796
+"D3_threshold_em2_tte_unanch","D3","threshold",2,"tte",FALSE,"G-MAIC (means and SDs)",0.630529677308541,"MAIC (means and SDs); sMAIC; MAIC (means, quartiles and proportions)","1.023; 1.030; 1.030","MAIC (means and SDs)",1.02250370720428,"G-MAIC (means and SDs)",1,2.21183096692226
+"D4_linear_em1_binary_anch","D4","linear",1,"binary",TRUE,"G-computation",0.332330841626316,"","","G-MAIC (means and SDs)",1.01391963372889,"G-computation",1,1.08421266349566
+"D4_linear_em1_binary_unanch","D4","linear",1,"binary",FALSE,"MAIC (means and SDs)",0.158989191981215,"G-MAIC (means and SDs); MAIC (means); G-computation","1.002; 1.003; 1.008","G-MAIC (means and SDs)",1.00231237264352,"MAIC (means and SDs)",1,1.00329778043674
+"D4_linear_em1_tte_anch","D4","linear",1,"tte",TRUE,"G-computation",0.162006978060199,"sG-MAIC","1.005","sG-MAIC",1.00539765810862,"G-computation",1,1.19906183799484
+"D4_linear_em1_tte_unanch","D4","linear",1,"tte",FALSE,"sG-MAIC",0.506621221217529,"","","G-MAIC",1.0507026896722,"G-computation",1.08407115922102,1.11033067543032
+"D4_linear_em2_binary_anch","D4","linear",2,"binary",TRUE,"G-computation",0.3354992673573,"G-MAIC (means and SDs)","1.007","G-MAIC (means and SDs)",1.00680262673358,"G-computation",1,1.08140242987072
+"D4_linear_em2_binary_unanch","D4","linear",2,"binary",FALSE,"sG-MAIC",0.1350984898612,"","","G-MAIC",1.04898498007813,"MAIC (means and SDs)",1.07179629995063,1.08710158705596
+"D4_linear_em2_tte_anch","D4","linear",2,"tte",TRUE,"sG-MAIC",0.147516867837588,"","","G-MAIC",1.03778430413682,"G-computation",1.0448484623805,1.25173653621862
+"D4_linear_em2_tte_unanch","D4","linear",2,"tte",FALSE,"sG-MAIC",0.439724194465007,"","","G-MAIC",1.03255894565506,"G-computation",1.31882650798578,1.41006239146623
+"D4_quad_em1_binary_anch","D4","quad",1,"binary",TRUE,"G-computation",0.352168059042747,"G-MAIC (means and SDs)","1.008","G-MAIC (means and SDs)",1.00826455617222,"G-computation",1,1.07133003652843
+"D4_quad_em1_binary_unanch","D4","quad",1,"binary",FALSE,"MAIC (means and SDs)",0.176996961376742,"G-MAIC (means and SDs); MAIC (means); G-computation","1.004; 1.009; 1.016","G-MAIC (means and SDs)",1.00438016349697,"MAIC (means and SDs)",1,1.00919444639761
+"D4_quad_em1_tte_anch","D4","quad",1,"tte",TRUE,"G-MAIC (means and SDs)",0.159020673333316,"G-computation; sG-MAIC","1.005; 1.016","G-computation",1.00524648396148,"G-MAIC (means and SDs)",1,1.14166823092066
+"D4_quad_em1_tte_unanch","D4","quad",1,"tte",FALSE,"G-MAIC (means and SDs)",0.583791503103527,"","","G-computation",1.03695606624123,"G-MAIC (means and SDs)",1,1.08672592647614
+"D4_quad_em2_binary_anch","D4","quad",2,"binary",TRUE,"G-MAIC (means and SDs)",0.343773919256028,"","","G-computation",1.02547726320679,"G-MAIC (means and SDs)",1,1.0720154766569
+"D4_quad_em2_binary_unanch","D4","quad",2,"binary",FALSE,"G-MAIC (means and SDs)",0.164369919091111,"MAIC (means and SDs)","1.008","MAIC (means and SDs)",1.00757131466857,"G-MAIC (means and SDs)",1,1.04736541469141
+"D4_quad_em2_tte_anch","D4","quad",2,"tte",TRUE,"G-MAIC (means and SDs)",0.165699447304697,"G-computation","1.010","G-computation",1.01009476474483,"G-MAIC (means and SDs)",1,1.19600456259558
+"D4_quad_em2_tte_unanch","D4","quad",2,"tte",FALSE,"G-MAIC (means and SDs)",0.579884821473694,"","","G-computation",1.08267017887427,"G-MAIC (means and SDs)",1,1.17296762471182
+"D4_threshold_em1_binary_anch","D4","threshold",1,"binary",TRUE,"G-computation",0.355860346333211,"G-MAIC (means and SDs)","1.004","G-MAIC (means and SDs)",1.00415660208291,"G-computation",1,1.06182330572918
+"D4_threshold_em1_binary_unanch","D4","threshold",1,"binary",FALSE,"MAIC (means and SDs)",0.168809227143197,"MAIC (means); G-MAIC (means and SDs); G-computation","1.000; 1.002; 1.011","MAIC (means)",1.00001203026604,"MAIC (means and SDs)",1,1.00001203026604
+"D4_threshold_em1_tte_anch","D4","threshold",1,"tte",TRUE,"G-computation",0.168023087768577,"sG-MAIC","1.021","G-MAIC (means and SDs)",1.01617209617568,"G-computation",1,1.10580633077152
+"D4_threshold_em1_tte_unanch","D4","threshold",1,"tte",FALSE,"G-MAIC (means and SDs)",0.558131938571105,"G-computation","1.019","G-computation",1.01913902541514,"G-MAIC (means and SDs)",1,1.07720021341768
+"D4_threshold_em2_binary_anch","D4","threshold",2,"binary",TRUE,"G-MAIC (means and SDs)",0.352684824867247,"G-computation","1.004","G-computation",1.0039832422608,"G-MAIC (means and SDs)",1,1.08403084619229
+"D4_threshold_em2_binary_unanch","D4","threshold",2,"binary",FALSE,"MAIC (means and SDs)",0.157547073501312,"G-MAIC (means and SDs)","1.008","G-MAIC (means and SDs)",1.00806719983205,"MAIC (means and SDs)",1,1.04150361947154
+"D4_threshold_em2_tte_anch","D4","threshold",2,"tte",TRUE,"sG-MAIC",0.165123776924786,"G-computation; G-MAIC (means and SDs)","1.006; 1.013","G-computation",1.0064053724744,"G-computation",1.0064053724744,1.16474902061754
+"D4_threshold_em2_tte_unanch","D4","threshold",2,"tte",FALSE,"MAIC (means)",0.61954330336046,"MAIC (means and SDs)","1.003","MAIC (means and SDs)",1.00296160101693,"MAIC (means)",1,1
