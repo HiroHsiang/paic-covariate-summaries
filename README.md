@@ -2,7 +2,7 @@
 
 R code and summary results for the simulation study
 
-> Xiang Y, Zhang C, Zhang K, Lian D, Sun H, Zhang J, Liu LZ, Zhou Y, Yu Y, Chen Y. *Choosing Covariate Summaries for Population-Adjusted Indirect Comparisons: A Simulation Study.* (manuscript submitted)
+> Xiang Y, Zhang C, Zhang K, Lian D, Sun H, Yu Y, Chen Y. *Choosing Covariate Summaries for Population-Adjusted Indirect Comparisons: A Simulation Study.* (manuscript submitted)
 
 Population-adjusted indirect comparisons (MAIC, STC, G-computation and G-MAIC) obtain all information on the comparator population from the summary statistics reported in its publication. Most analyses match the means and standard deviations (SDs) of the effect modifiers. The study asks whether additional summaries (quartiles, ranges and proportions above a clinical cut-point) improve the comparison, and when they make it worse. It also evaluates two proposed methods that match SDs and quartiles within tolerances set by their sampling error: soft-constraint MAIC (sMAIC) and soft-constraint G-MAIC (sG-MAIC).
 
